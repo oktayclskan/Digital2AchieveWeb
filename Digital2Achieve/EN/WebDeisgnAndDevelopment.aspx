@@ -83,16 +83,16 @@
                         <p class="align-items-center mt-2">
                             Web design and development is the process of
               designing, creating and technically developing the visual design, user interface and user experience of a
-              website. </BR>
+              website. <br />
                         </p>
                     </div>
                     <div class="col-md-3 mt-4">
-                        <img src="../assets/img/gif/wdad.gif" style="opacity: .7;" class="img-fluid w-100" alt="">
+                        <img src="../assets/img/gif/wdad.gif" style="opacity: .7;" class="img-fluid w-100" />
                     </div>
-                    <hr class="bg-secondary mt-4" style="border: 2px solid silver;">
+                    <hr class="bg-secondary mt-4" style="border: 2px solid silver;"/>
                     <div class="row mt-3">
                         <div class="col-md-12">
-                            <h4 style="text-align: center;">What is its importance in short?</h3>
+                            <h4 style="text-align: center;">What is its importance in short?</h4>
                 <p class="align-items-center mt-2" style="opacity: .7;">
                     According to a study, 84% of
                   consumers already placed more trust in businesses that had a website, even if they had a physical
@@ -107,7 +107,7 @@
                                 </ul>
                         </div>
                     </div>
-                    <hr class="bg-secondary" style="border: 2px solid silver;">
+                    <hr class="bg-secondary" style="border: 2px solid silver;"/>
                     <div class="row mt-4">
                         <div class="col-md-9">
                             <h4 style="text-align: center;">What do we do for you?</h4>
@@ -121,7 +121,7 @@
                 </p>
                         </div>
                         <div class="col-md-3 mt-4">
-                            <img src="../assets/img/gif/wdadd2a.gif" style="opacity: .7;" class="img-fluid w-100" alt="">
+                            <img src="../assets/img/gif/wdadd2a.gif" style="opacity: .7;" class="img-fluid w-100"/>
                         </div>
                     </div>
                 </div>

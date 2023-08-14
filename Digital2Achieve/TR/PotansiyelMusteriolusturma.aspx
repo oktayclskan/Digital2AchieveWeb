@@ -34,7 +34,7 @@
     <div class="container d-flex align-items-center justify-content-between position-relative">
 
       <div class="logo">
-        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" height="100%" alt=""></a>
+        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png"/></a>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -44,8 +44,8 @@
           <li><a class="nav-link scrollto" href="../tr.aspx#services">Servisler</a></li>
           <li><a class="nav-link scrollto" href="../tr.aspx#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="../tr.aspx#contact">İletişim</a></li>
-          <li><a class="nav-link scrollto" href="../TR/PotansiyelMusteriolusturma.aspx"><img src="../assets/img/Language/turkey.png" alt=""></a></li>
-          <li><a class="nav-link scrollto" href="../EN/LeadGenerationAdsMaeketing.aspx"><img src="../assets/img/Language/united-kingdom.png" alt=""></a></li>
+          <li><a class="nav-link scrollto" href="../TR/PotansiyelMusteriolusturma.aspx"><img src="../assets/img/Language/turkey.png" /></a></li>
+          <li><a class="nav-link scrollto" href="../EN/LeadGenerationAdsMaeketing.aspx"><img src="../assets/img/Language/united-kingdom.png" /></a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -65,9 +65,9 @@
               toplayıp onları müşterilere döndürmek için kullanılan pazarlama yöntemidir.</p>
           </div>
           <div class="col-md-3">
-            <img src="../assets/img/gif/lgamd2a.webp" style="opacity: 0.7;" class="img-fluid" alt="">
+            <img src="../assets/img/gif/lgamd2a.gif" style="opacity: 0.7;" class="img-fluid" />
           </div>
-          <hr class="bg-secondary mt-4" style="border:2px solid silver;">
+          <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">
             <div class="col-md-12">
               <h4 style="text-align: center;">
@@ -85,7 +85,7 @@
                 </ul>
             </div>
           </div>
-          <hr class="bg-secondary" style="border:2px solid silver;">
+          <hr class="bg-secondary" style="border:2px solid silver;"/>
           <div class="row mt-4">
             <div class="col-md-9">
               <h4 style="text-align: center;">Biz sizin için ne yapıyoruz?</h4>
@@ -96,7 +96,7 @@
                   daha fazla müşteri kazanmasına yardımcı olan içerikler üretiyoruz.</p>
             </div>
             <div class="col-md-3">
-              <img src="../assets/img/gif/LGAM.webp" style="opacity: 0.7;" class="img-fluid" alt="">
+              <img src="../assets/img/gif/LGAM.gif" style="opacity: 0.7;" class="img-fluid" />
             </div>
           </div>
         </div>

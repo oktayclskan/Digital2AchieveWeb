@@ -35,7 +35,7 @@
 
             <div class="logo">
                 <a href="../index.aspx">
-                    <img src="../assets/img/Logo/d2a-head-logo2.png" height="100%" alt="" /></a>
+                    <img src="../assets/img/Logo/d2a-head-logo2.png"alt="" /></a>
             </div>
 
             <nav id="navbar" class="navbar">
@@ -85,21 +85,21 @@
               olarak bilinir), Google tarafından sunulan bir reklam platformudur. Bu platform aracılığıyla şirketler,
               ürün veya hizmetlerini Google arama sonuçlarında, web sitelerinde, mobil uygulamalarda ve YouTube gibi
               çeşitli dijital platformlarda hedef kitlelere tanıtabilirler.
-              </BR>
+              <br />
                         </p>
                     </div>
                     <div class="col-md-3 mt-1">
-                        <img src="../assets/img/gif/ga.webp" style="opacity: 0.7; margin-top: 12%;" class="img-fluid" alt="">
+                        <img src="../assets/img/gif/ga.gif" style="opacity: 0.7; margin-top: 12%;" class="img-fluid" />
                     </div>
-                    <hr class="bg-secondary mt-4" style="border: 2px solid silver;">
+                    <hr class="bg-secondary mt-4" style="border: 2px solid silver;"/>
                     <div class="row mt-3">
                         <div class="col-md-12">
-                            <h4 style="text-align: center;">Google Ads’in kısaca önemi nedir?</h3>
-                <p class="text-white align-items-center mt-2">
+                            <h4 style="text-align: center;">Google Ads’in kısaca önemi nedir?</h4>
+                <p class="text-white align-items-center mt-2"style="opacity: .7;">
                     Google Ads, reklam verenlere
                   kapsamlı hedefleme seçenekleri sunar.
                                 </p>
-                                <ul class="text-white">
+                                <ul class="text-white trul">
                                     <li class="mt-3">Coğrafi konum, dil, demografik özellikler göz önünde bulundurularak ilgi alanlarına
                     göre gerçek potansiyel müşteri kitlesine ulaşım sağlar.</li>
                                     <li class="mt-3">Reklam yayınlanmasına uygun olan cihaz türlerine göre reklamların hedef kitleye
@@ -114,7 +114,7 @@
                                 </ul>
                         </div>
                     </div>
-                    <hr class="bg-secondary" style="border: 2px solid silver;">
+                    <hr class="bg-secondary" style="border: 2px solid silver;"/>
                     <div class="row mt-4">
                         <div class="col-md-9">
                             <h4 style="text-align: center;">Biz sizin için ne yapıyoruz!</h3>
@@ -128,7 +128,7 @@
                 </p>
                         </div>
                         <div class="col-md-3 mt-1">
-                            <img src="../assets/img/gif/gad2a.webp" style="opacity: 0.7;" class="img-fluid" alt="">
+                            <img src="../assets/img/gif/gad2a.gif" style="opacity: 0.7;" class="img-fluid" />
                         </div>
                     </div>
                 </div>

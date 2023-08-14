@@ -34,7 +34,7 @@
     <div class="container d-flex align-items-center justify-content-between position-relative">
 
       <div class="logo">
-        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" height="100%" alt=""/></a>
+        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png"/></a>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -61,12 +61,13 @@
             <h4 style="text-align: center;">Web Tasarim ve Geliştirme</h4>
             <p class="align-items-center mt-2"">Web tasarımı ve geliştirme, bir web
               sitesinin görsel tasarımını, kullanıcı arayüzünü ve kullanıcı deneyimini belirli teknikler kullanarak
-              tasarlama, oluşturma ve teknik olarak geliştirme sürecidir. </BR></p>
+              tasarlama, oluşturma ve teknik olarak geliştirme sürecidir. <br />
+            </p>
           </div>
           <div class="col-md-3 mt-4">
-            <img src="../assets/img/gif/wdad.gif" style="opacity: 0.7;" class="img-fluid" alt="">
+            <img src="../assets/img/gif/wdad.gif" style="opacity: 0.7;" class="img-fluid" />
           </div>
-          <hr class="bg-secondary mt-4" style="border:2px solid silver;">
+          <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">
             <div class="col-md-12">
               <h4 style="text-align: center;">
@@ -84,7 +85,7 @@
                 </ul>
             </div>
           </div>
-          <hr class="bg-secondary" style="border:2px solid silver;">
+          <hr class="bg-secondary" style="border:2px solid silver;"/>
           <div class="row mt-4">
             <div class="col-md-9">
               <h4 style="text-align: center;">Biz sizin için ne yapıyoruz?</h4>
@@ -97,7 +98,7 @@
                   satışa giden yolda önemli bir rol oynar.</p>
             </div>
             <div class="col-md-3 mt-4">
-              <img src="../assets/img/gif/wdadd2a.gif" style="opacity: 0.7;" class="img-fluid" alt="">
+              <img src="../assets/img/gif/wdadd2a.gif" style="opacity: 0.7;" class="img-fluid"/>
             </div>
           </div>
         </div>

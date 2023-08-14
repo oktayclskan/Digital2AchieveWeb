@@ -34,7 +34,7 @@
     <div class="container d-flex align-items-center justify-content-between position-relative">
 
       <div class="logo">
-        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" height="100%" alt=""/></a>
+        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" alt=""/></a>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -81,9 +81,9 @@
               interest in a product, service, or offer. </p>
           </div>
           <div class="col-md-3">
-            <img src="../assets/img/gif/lgamd2a.webp" class="img-fluid" alt="">
+            <img src="../assets/img/gif/lgamd2a.gif" class="img-fluid" alt=""/>
           </div>
-          <hr class="bg-secondary mt-4" style="border:2px solid silver;">
+          <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">
             <div class="col-md-12">
               <h4 style="text-align: center;">What is the importance of lead generation ads briefly?</h3>
@@ -109,7 +109,7 @@
                   marketing objectives and sales.</p>
             </div>
             <div class="col-md-3">
-              <img src="../assets/img/gif/LGAM.webp" style="opacity: .7;" class="img-fluid" alt="">
+              <img src="../assets/img/gif/LGAM.gif" style="opacity: .7;" class="img-fluid" alt=""/>
             </div>
           </div>
         </div>

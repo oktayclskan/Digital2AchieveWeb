@@ -34,7 +34,7 @@
     <div class="container d-flex align-items-center justify-content-between position-relative">
 
       <div class="logo">
-        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" height="100%" alt=""></a>
+        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" /></a>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -44,8 +44,8 @@
           <li><a class="nav-link scrollto" href="../tr.aspx#services">Servisler</a></li>
           <li><a class="nav-link scrollto" href="../tr.aspx#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="../tr.aspx#contact">İletişim</a></li>
-          <li><a class="nav-link scrollto" href="../TR/Markalasma.aspx"><img src="../assets/img/Language/turkey.png" alt=""></a></li>
-          <li><a class="nav-link scrollto" href="../EN/Branding.aspx"><img src="../assets/img/Language/united-kingdom.png" alt=""></a></li>
+          <li><a class="nav-link scrollto" href="../TR/Markalasma.aspx"><img src="../assets/img/Language/turkey.png" /></a></li>
+          <li><a class="nav-link scrollto" href="../EN/Branding.aspx"><img src="../assets/img/Language/united-kingdom.png" /></a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -63,10 +63,11 @@
             <p class="align-items-center mt-2">Markalaşmak, bir şirketin veya
               firmanın kendini benzersiz ve tanınabilir bir şekilde pazarlamasını, müşterilerin zihinlerinde özel bir
               konum oluşturmasını ve diğer rakiplerinden ayrışmasını sağlayan süreçtir.
-              </BR></p>
+              <br />
+            </p>
           </div>
           <div class="col-md-3 mt-4">
-            <img src="../assets/img/gif/b.webp" style="opacity: 0.7;" class="img-fluid w-50" alt="">
+            <img src="../assets/img/gif/b.gif" style="opacity: 0.7;" class="img-fluid w-50" alt="">
           </div>
           <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">
@@ -89,10 +90,10 @@
                 </ul>
             </div>
           </div>
-          <hr class="bg-secondary" style="border:2px solid silver;">
+          <hr class="bg-secondary" style="border:2px solid silver;"/>
           <div class="row mt-4">
             <div class="col-md-9">
-              <h4 style="text-align: center;">Biz sizin için ne yapıyoruz?</h3>
+              <h4 style="text-align: center;">Biz sizin için ne yapıyoruz?</h4>
                 <p class="align-items-center"> Dijital dünyanın gelişimiyle birlikte
                   markalaşma ve markaların rekabet ortamında öne çıkma gereksinimi her zamankinden daha kritik hale
                   gelmiştir. Dijitalle Başar <span style="font-weight: 900;color: brown;">Digital2Achieve</span>
@@ -102,7 +103,7 @@
                 </p>
             </div>
             <div class="col-md-3 mt-4">
-              <img src="../assets/img/gif/bd2a.webp" style="opacity: 0.7;" class="img-fluid" alt="">
+              <img src="../assets/img/gif/bd2a.gif" style="opacity: 0.7;" class="img-fluid" />
             </div>
           </div>
         </div>

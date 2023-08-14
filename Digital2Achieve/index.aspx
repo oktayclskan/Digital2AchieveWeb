@@ -34,7 +34,7 @@
 
             <div class="logo">
                 <a href="index.aspx">
-                    <img src="assets/img/Logo/d2a-head-logo2.png" height="100%" alt=""></a>
+                    <img src="assets/img/Logo/d2a-head-logo2.png"alt=""/></a>
             </div>
             <nav id="navbar" class="navbar">
                 <ul>
@@ -319,7 +319,6 @@
                         </div>
                     </a>
                 </div>
-            </div>
             </div>
         </section>
         <!-- End Services Section -->

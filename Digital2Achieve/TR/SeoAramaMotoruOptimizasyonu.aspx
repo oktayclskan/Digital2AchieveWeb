@@ -34,7 +34,7 @@
     <div class="container d-flex align-items-center justify-content-between position-relative">
 
       <div class="logo">
-        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" height="100%" alt=""></a>
+        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png"/></a>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -62,16 +62,17 @@
             <h4 style="text-align: center;">SEO (ARAMA MOTORU OPTIMIZASYONU)</h4>
             <p class="align-items-center mt-2">SEO, bir web sitesinin arama
               motorlarında organik olarak üst sıralarda görünmesini sağlayan bir dizi teknik ve stratejik uygulamalar
-              bütünüdür. </BR></p>
+              bütünüdür. <br />
+            </p>
           </div>
           <div class="col-md-3 mt-1">
-            <img src="../assets/img/gif/SEO.webp" style="opacity: 0.7;" class="img-fluid w-50" alt="">
+            <img src="../assets/img/gif/SEO.gif" style="opacity: 0.7;" class="img-fluid w-50" alt="">
           </div>
           <hr class="bg-secondary mt-4" style="border:2px solid silver;">
           <div class="row mt-3">
             <div class="col-md-12">
               <h4 style="text-align: center;">
-                SEO’NUN KISACA ÖNEMI NEDIR?</h3>
+                SEO’NUN KISACA ÖNEMI NEDIR?</h4>
                 <ul>
                   <li class="mt-3">Web sitenizin arama motorlarında üst sıralarda yer almasını sağlar.</li>
                   <li class="mt-3">Arama motorlarında potansiyel müşterilere doğrudan ulaşma şansı elde edersiniz.</li>
@@ -84,10 +85,10 @@
                 </ul>
             </div>
           </div>
-          <hr class="bg-secondary" style="border:2px solid silver;">
+          <hr class="bg-secondary" style="border:2px solid silver;"/>
           <div class="row mt-4">
             <div class="col-md-9">
-              <h4 style="text-align: center;">Biz sizin için ne yapıyoruz?</h3>
+              <h4 style="text-align: center;">Biz sizin için ne yapıyoruz?</h4>
                 <p class="align-items-center"> Dijitalle Başar <span
                     style="font-weight: 900;color: brown;">Digital2Achieve</span> Pazarlama ve Danışmanlık olarak, SEO
                   (Arama Motoru Optimizasyonu) ile şirketinizin online görünürlüğünü, organik arama sıralamasını en üst
@@ -95,7 +96,7 @@
                 </p>
             </div>
             <div class="col-md-3 mt-1">
-              <img src="../assets/img/gif/seod2a.webp" style="opacity: 0.7;" class="img-fluid w-50" alt="">
+              <img src="../assets/img/gif/seod2a.gif" style="opacity: 0.7;" class="img-fluid w-50" alt="">
             </div>
           </div>
         </div>

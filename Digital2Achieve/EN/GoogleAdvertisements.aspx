@@ -34,7 +34,7 @@
     <div class="container d-flex align-items-center justify-content-between position-relative">
 
       <div class="logo">
-        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" height="100%" alt=""></a>
+        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" alt=""/></a>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -79,12 +79,13 @@
               is a powerful advertising platform provided by Google. It enables companies to advertise
               their products or services to specific target audiences across various digital platforms
               like Google search results, websites, mobile apps, and YouTube.
-              </BR></p>
+              <br />
+            </p>
           </div>
           <div class="col-md-3 mt-1">
-            <img src="../assets/img/gif/ga.webp" style="opacity: .7; margin-top: 20%;" class="img-fluid" alt="">
+            <img src="../assets/img/gif/ga.gif" style="opacity: .7; margin-top: 20%;" class="img-fluid" alt=""/>
           </div>
-          <hr class="bg-secondary mt-4" style="border:2px solid silver;">
+          <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">
             <div class="col-md-12">
               <h4 style="text-align: center;">What is the importance of Google Ads?</h3>
@@ -107,7 +108,7 @@
                 </ul>
             </div>
           </div>
-          <hr class="bg-secondary" style="border:2px solid silver;">
+          <hr class="bg-secondary" style="border:2px solid silver;"/>
           <div class="row mt-4">
             <div class="col-md-9">
               <h4 style="text-align: center;">What do we do for you?</h3>
@@ -121,7 +122,7 @@
                 </p>
             </div>
             <div class="col-md-3 mt-1">
-              <img src="../assets/img/gif/gad2a.webp" style="opacity: .7;" class="img-fluid" alt="">
+              <img src="../assets/img/gif/gad2a.gif" style="opacity: .7;" class="img-fluid" alt=""/>
             </div>
           </div>
         </div>

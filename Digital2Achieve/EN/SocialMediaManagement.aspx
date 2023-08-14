@@ -34,7 +34,7 @@
     <div class="container d-flex align-items-center justify-content-between position-relative">
 
       <div class="logo">
-        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" height="100%" alt=""></a>
+        <a/ href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" alt=""/></a>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -78,14 +78,14 @@
             <p class="align-items-center mt-2">Social media management (Facebook,
               Instagram, Twitter, LinkedIn, etc.) is the implementation of marketing strategies to increase brand
               awareness, promote products or services, interact with the target audience and attract potential customers
-              using social media platforms. <br><br>
+              using social media platforms. <br/><br/>
               Social media marketing is an exceptionally effective and convenient method of promoting products or
               services when compared to conventional marketing methods.</p>
           </div>
           <div class="col-md-3 mt-4">
-            <img src="../assets/img/gif/smm.webp" style="opacity: .7;" class="img-fluid" alt="">
+            <img src="../assets/img/gif/smm.gif" style="opacity: .7;" class="img-fluid" alt=""/>
           </div>
-          <hr class="bg-secondary mt-4" style="border:2px solid silver;">
+          <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">
             <div class="col-md-12">
               <h4 style="text-align: center;">What is the importance of social media management?</h3>
@@ -108,7 +108,7 @@
                   content and manage your social media campaigns.</p>
             </div>
             <div class="col-md-3 mt-4">
-              <img src="../assets/img/gif/smmd2a.webp" style="opacity: .7;" class="img-fluid" alt="">
+              <img src="../assets/img/gif/smmd2a.gif" style="opacity: .7;" class="img-fluid" alt=""/>
             </div>
           </div>
         </div>

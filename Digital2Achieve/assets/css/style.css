@@ -1588,6 +1588,9 @@ section {
 }
 
 .inner-page p {
-  font-size: 12pt;
+  font-size: 14pt;
   font-family: 'Merriweather', serif;
+}
+.trul{
+    font-size:13pt !important;
 }

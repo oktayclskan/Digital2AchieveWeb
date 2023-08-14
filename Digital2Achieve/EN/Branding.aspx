@@ -84,20 +84,21 @@
                             Branding is the process
               that enables a company or firm to market itself in a unique and recognisable way, to create
               a special position in the minds of customers and to differentiate itself from other
-              competitors.</BR>
+              competitors.
+                            <br />
                         </p>
                     </div>
                     <div class="col-md-3 mt-4">
-                        <img src="../assets/img/gif/b.webp" style="opacity: .7;" class="img-fluid w-50" alt="" />
+                        <img src="../assets/img/gif/b.gif" style="opacity: .7;" class="img-fluid w-50" alt="" />
                     </div>
-                    <hr class="bg-secondary mt-4" style="border: 2px solid silver;">
+                    <hr class="bg-secondary mt-4" style="border: 2px solid silver;"/>
                     <div class="row mt-3">
                         <div class="col-md-12">
                             <h4 style="text-align: center;">What is the importance of branding briefly?</h4>
 
                             <ul>
                                 <li class="mt-3">It differentiates from competitors and provides a competitive advantage.</li>
-                                <li class="mt-3">Creates trust and reputation.</p>
+                                <li class="mt-3">Creates trust and reputation.
                                 </li>
                                 <li class="mt-3">It creates value in the eyes of your customers and creates pricing power.</li>
                                 <li class="mt-3">Creates customer loyalty and loyalty.</li>
