@@ -35,7 +35,7 @@
 
             <div class="logo">
                 <a href="../index.aspx">
-                    <img src="../assets/img/Logo/d2a-head-logo2.png"alt="" /></a>
+                    <img src="../assets/img/Logo/d2a-head-logo2.png" width="110"/></a>
             </div>
 
             <nav id="navbar" class="navbar">
@@ -43,7 +43,6 @@
                     <li><a class="nav-link scrollto " href="../tr.aspx#hero">Anasayfa</a></li>
                     <li><a class="nav-link scrollto" href="../tr.aspx#about">Hakkımızda</a></li>
                     <li><a class="nav-link scrollto" href="../tr.aspx#services">Servisler</a></li>
-                    <li><a class="nav-link scrollto" href="../tr.aspx#portfolio">Portfolio</a></li>
                     <li><a class="nav-link scrollto" href="../tr.aspx#contact">İletişim</a></li>
                     <li><a class="nav-link scrollto" href="../TR/GoogleAdsPazarlama.aspx">
                         <img src="../assets/img/Language/turkey.png" alt="" /></a></li>
@@ -91,30 +90,30 @@
                     <div class="col-md-3 mt-1">
                         <img src="../assets/img/gif/ga.gif" style="opacity: 0.7; margin-top: 12%;" class="img-fluid" />
                     </div>
-                    <hr class="bg-secondary mt-4" style="border: 2px solid silver;"/>
+                    <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
                         <div class="col-md-12">
                             <h4 style="text-align: center;">Google Ads’in kısaca önemi nedir?</h4>
-                <p class="text-white align-items-center mt-2"style="opacity: .7;">
-                    Google Ads, reklam verenlere
+                            <p class="text-white align-items-center mt-2" style="opacity: .7;">
+                                Google Ads, reklam verenlere
                   kapsamlı hedefleme seçenekleri sunar.
-                                </p>
-                                <ul class="text-white trul">
-                                    <li class="mt-3">Coğrafi konum, dil, demografik özellikler göz önünde bulundurularak ilgi alanlarına
+                            </p>
+                            <ul class="text-white trul">
+                                <li class="mt-3">Coğrafi konum, dil, demografik özellikler göz önünde bulundurularak ilgi alanlarına
                     göre gerçek potansiyel müşteri kitlesine ulaşım sağlar.</li>
-                                    <li class="mt-3">Reklam yayınlanmasına uygun olan cihaz türlerine göre reklamların hedef kitleye
+                                <li class="mt-3">Reklam yayınlanmasına uygun olan cihaz türlerine göre reklamların hedef kitleye
                     gösterimini sağlar.
                     according to the types of devices suitable for advertising.</li>
-                                    <li class="mt-3">Reklam kampanyalarının bütçesini ve hedefleme seçeneklerini istediğiniz zaman değiştirilmesine
+                                <li class="mt-3">Reklam kampanyalarının bütçesini ve hedefleme seçeneklerini istediğiniz zaman değiştirilmesine
                     olanak sağlar.</li>
-                                    <li class="mt-3">Verilen reklamlar yayınlanmaya başladıkları andan itibaren potansiyel müşterilere ulaşabilir ve
+                                <li class="mt-3">Verilen reklamlar yayınlanmaya başladıkları andan itibaren potansiyel müşterilere ulaşabilir ve
                     hedef kitlenize ulaşım sağlayabilirler.</li>
-                                    <li class="mt-3">Reklam bütçesini belirlemeniz, reklamların gösterimlerine ve tıklamalarına göre ödeme yapmanızda
+                                <li class="mt-3">Reklam bütçesini belirlemeniz, reklamların gösterimlerine ve tıklamalarına göre ödeme yapmanızda
                     kolaylık sağlar.</li>
-                                </ul>
+                            </ul>
                         </div>
                     </div>
-                    <hr class="bg-secondary" style="border: 2px solid silver;"/>
+                    <hr class="bg-secondary" style="border: 2px solid silver;" />
                     <div class="row mt-4">
                         <div class="col-md-9">
                             <h4 style="text-align: center;">Biz sizin için ne yapıyoruz!</h3>
@@ -142,46 +141,29 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row">
-                    <!-- <div class="col-lg-4 col-md-6">
-            <div class="footer-info w-75">
-              <h3>Squadfree</h3>
-              <p class="pb-3"><em>Qui repudiandae et eum dolores alias sed ea. Qui suscipit veniam excepturi quod.</em>
-              </p>
-              <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
-              </p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
-            </div>
-          </div> -->
-                    <div class="col-lg-3 col-md-6 footer-links container">
+                    <div class="col-sm-3 footer-links container">
                         <h4>Bağlantılar</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx">Home</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#about">Hakkımızda
                             </a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                        <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Servislerimiz</a>
+                            </li>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#contact">İletişim</a>
                             </li>
                         </ul>
                     </div>
-                    <div class="col-lg-3 col-md-6 footer-links container" style="display: flow;">
-                        <h4>Bağlantılar</h4>
+                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Kullanım Şartları
                             </a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Gizlilik Politikası</a></li>
                         </ul>
                     </div>
-
-
                 </div>
             </div>
         </div>

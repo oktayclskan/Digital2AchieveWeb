@@ -34,7 +34,7 @@
     <div class="container d-flex align-items-center justify-content-between position-relative">
 
       <div class="logo">
-        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png" /></a>
+        <a href="../index.aspx"><img src="../assets/img/Logo/d2a-head-logo2.png"width="110" /></a>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -42,7 +42,6 @@
           <li><a class="nav-link scrollto " href="../tr.aspx#hero">Anasayfa</a></li>
           <li><a class="nav-link scrollto" href="../tr.aspx#about">Hakkımızda</a></li>
           <li><a class="nav-link scrollto" href="../tr.aspx#services">Servisler</a></li>
-          <li><a class="nav-link scrollto" href="../tr.aspx#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="../tr.aspx#contact">İletişim</a></li>
           <li><a class="nav-link scrollto" href="../TR/SosyalMedyaYonetimi.aspx"><img src="../assets/img/Language/turkey.png" alt=""/></a></li>
           <li><a class="nav-link scrollto" href="../EN/SocialMediaManagement.aspx"><img src="../assets/img/Language/united-kingdom.png" alt=""/></a></li>
@@ -118,51 +117,34 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
-      <div class="container">
-        <div class="row">
-          <!-- <div class="col-lg-4 col-md-6">
-            <div class="footer-info w-75">
-              <h3>Squadfree</h3>
-              <p class="pb-3"><em>Qui repudiandae et eum dolores alias sed ea. Qui suscipit veniam excepturi quod.</em>
-              </p>
-              <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
-              </p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3 footer-links container">
+                        <h4>Bağlantılar</h4>
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx">Home</a></li>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#about">Hakkımızda
+                            </a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Servislerimiz</a>
+                            </li>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#contact">İletişim</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i><a href="#">Kullanım Şartları
+                            </a></li>
+                            <li><i class="bx bx-chevron-right"></i><a href="#">Gizlilik Politikası</a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-          </div> -->
-          <div class="col-lg-3 col-md-6 footer-links container">
-            <h4>Bağlantılar</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="../index.aspx">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="../index.aspx#about">Hakkımızda
-                </a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="../index.aspx#services">Servislerimiz</a>
-              </li>
-            </ul>
-          </div>
-          <div class="col-lg-3 col-md-6 footer-links container" style="display: flow;">
-            <h4>Bağlantılar</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Kullanım Şartları
-                </a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Gizlilik Politikası</a></li>
-            </ul>
-          </div>
-
-
         </div>
-      </div>
-    </div>
     <!-- <div class="col-lg-2 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>

@@ -70,6 +70,7 @@
     <Content Include="assets\css\style.css" />
     <Content Include="assets\forms\contact.php" />
     <Content Include="assets\forms\Readme.txt" />
+    <Content Include="assets\img\4386296.png" />
     <Content Include="assets\img\AboutUs\activeDigital.png" />
     <Content Include="assets\img\AboutUs\broadAudience.png" />
     <Content Include="assets\img\background.jpg" />
@@ -83,6 +84,7 @@
     <Content Include="assets\img\Logo\d2a-head-logo2.png" />
     <Content Include="assets\img\Logo\logo.jpg" />
     <Content Include="assets\img\Logo\SOSYAL MEDYA YÖNETİMİ.jpg" />
+    <Content Include="assets\img\map-dotted.png" />
     <Content Include="assets\img\move.svg" />
     <Content Include="assets\img\multimedia.svg" />
     <Content Include="assets\img\portfolio\portfolio-1.jpg" />
@@ -305,7 +307,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="assets\img\AboutUs\wider-reach.webp" />
+    <Content Include="assets\img\AboutUs\wider-reach.gif" />
     <Content Include="assets\img\gif\b.gif" />
     <Content Include="assets\img\gif\bd2a.gif" />
     <Content Include="assets\img\gif\ga.gif" />

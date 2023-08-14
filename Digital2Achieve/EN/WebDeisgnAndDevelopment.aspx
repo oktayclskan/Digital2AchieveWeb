@@ -35,7 +35,7 @@
 
             <div class="logo">
                 <a href="../index.aspx">
-                    <img src="../assets/img/Logo/d2a-head-logo2.png" height="100%" alt=""/></a>
+                    <img src="../assets/img/Logo/d2a-head-logo2.png" width="110" alt="" /></a>
             </div>
 
             <nav id="navbar" class="navbar">
@@ -43,7 +43,6 @@
                     <li><a class="nav-link scrollto " href="../index.aspx">Home</a></li>
                     <li><a class="nav-link scrollto" href="../index.aspx#About">About Us</a></li>
                     <li><a class="nav-link scrollto" href="../index.aspx#services">Services</a></li>
-                    <li><a class="nav-link scrollto" href="../index.aspx#portfolio">Portfolio</a></li>
                     <li><a class="nav-link scrollto" href="../index.aspx#contact">Contact</a></li>
                     <li><a class="nav-link scrollto" href="../TR/WebTasarimVeGelistirme.aspx">
                         <img src="../assets/img/Language/turkey.png" alt=""></a></li>
@@ -83,45 +82,46 @@
                         <p class="align-items-center mt-2">
                             Web design and development is the process of
               designing, creating and technically developing the visual design, user interface and user experience of a
-              website. <br />
+              website.
+                            <br />
                         </p>
                     </div>
                     <div class="col-md-3 mt-4">
                         <img src="../assets/img/gif/wdad.gif" style="opacity: .7;" class="img-fluid w-100" />
                     </div>
-                    <hr class="bg-secondary mt-4" style="border: 2px solid silver;"/>
+                    <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
                         <div class="col-md-12">
                             <h4 style="text-align: center;">What is its importance in short?</h4>
-                <p class="align-items-center mt-2" style="opacity: .7;">
-                    According to a study, 84% of
+                            <p class="align-items-center mt-2" style="opacity: .7;">
+                                According to a study, 84% of
                   consumers already placed more trust in businesses that had a website, even if they had a physical
                   establishment.
-                                </p>
-                                <ul>
-                                    <li class="mt-3">A good website attracts users.</li>
-                                    <li class="mt-3">Increases brand credibility.</li>
-                                    <li class="mt-3">It enables interaction with the target audience </li>
-                                    <li class="mt-3">Strengthens the digital presence of good businesses.</li>
-                                    <li class="mt-3">It is an online location for a worldwide presence.</li>
-                                </ul>
+                            </p>
+                            <ul>
+                                <li class="mt-3">A good website attracts users.</li>
+                                <li class="mt-3">Increases brand credibility.</li>
+                                <li class="mt-3">It enables interaction with the target audience </li>
+                                <li class="mt-3">Strengthens the digital presence of good businesses.</li>
+                                <li class="mt-3">It is an online location for a worldwide presence.</li>
+                            </ul>
                         </div>
                     </div>
-                    <hr class="bg-secondary" style="border: 2px solid silver;"/>
+                    <hr class="bg-secondary" style="border: 2px solid silver;" />
                     <div class="row mt-4">
                         <div class="col-md-9">
                             <h4 style="text-align: center;">What do we do for you?</h4>
-                <p class="align-items-center">
-                    <span
-                        style="font-weight: 900; color: brown;">Digital2Achieve</span>, our skilled web designers are trained
+                            <p class="align-items-center">
+                                <span
+                                    style="font-weight: 900; color: brown;">Digital2Achieve</span>, our skilled web designers are trained
                   to craft visually captivating websites that represent your brand quality. We understand that the use
                   of colours, typography, images, and other graphic elements are vital in achieving a unified design. We
                   also make sure that your website effectively communicates your company's messages to your customers.
                   This, in turn, can result in increased sales for your business.
-                </p>
+                            </p>
                         </div>
                         <div class="col-md-3 mt-4">
-                            <img src="../assets/img/gif/wdadd2a.gif" style="opacity: .7;" class="img-fluid w-100"/>
+                            <img src="../assets/img/gif/wdadd2a.gif" style="opacity: .7;" class="img-fluid w-100" />
                         </div>
                     </div>
                 </div>
@@ -135,48 +135,26 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row">
-                    <!-- <div class="col-lg-4 col-md-6">
-            <div class="footer-info w-75">
-              <h3>Squadfree</h3>
-              <p class="pb-3"><em>Qui repudiandae et eum dolores alias sed ea. Qui suscipit veniam excepturi quod.</em>
-              </p>
-              <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
-              </p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
-            </div>
-          </div> -->
-                    <div class="col-lg-3 col-md-6 footer-links container">
+                    <div class="col-sm-3 footer-links container">
                         <h4>Useful Links</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx">Home</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#about">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Services</a></li>
                         </ul>
                     </div>
-                    <div class="col-lg-3 col-md-6 footer-links container" style="display: flow;">
-                        <h4>Useful Links</h4>
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#contact">Contact</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="col-sm-3  footer-links container" style=" margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Terms of service</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Privacy policy</a></li>
                         </ul>
                     </div>
-                    <!-- <div class="col-lg-6 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div> -->
                 </div>
             </div>
         </div>

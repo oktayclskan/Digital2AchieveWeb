@@ -35,7 +35,7 @@
 
             <div class="logo">
                 <a href="../index.aspx">
-                    <img src="../assets/img/Logo/d2a-head-logo2.png" height="100" alt="" /></a>
+                    <img src="../assets/img/Logo/d2a-head-logo2.png" width="110" alt="" /></a>
             </div>
 
             <nav id="navbar" class="navbar">
@@ -43,7 +43,6 @@
                     <li><a class="nav-link scrollto " href="../index.aspx">Home</a></li>
                     <li><a class="nav-link scrollto" href="../index.aspx#about">About Us</a></li>
                     <li><a class="nav-link scrollto" href="../index.aspx#services">Services</a></li>
-                    <li><a class="nav-link scrollto" href="../index.aspx#portfolio">Portfolio</a></li>
                     <li><a class="nav-link scrollto" href="../index.aspx#contact">Contact</a></li>
                     <li><a class="nav-link scrollto" href="../TR/Markalasma.aspx">
                         <img src="../assets/img/Language/turkey.png" alt="" /></a></li>
@@ -134,48 +133,26 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row">
-                    <!-- <div class="col-lg-4 col-md-6">
-            <div class="footer-info w-75">
-              <h3>Squadfree</h3>
-              <p class="pb-3"><em>Qui repudiandae et eum dolores alias sed ea. Qui suscipit veniam excepturi quod.</em>
-              </p>
-              <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
-              </p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
-            </div>
-          </div> -->
-                    <div class="col-lg-3 col-md-6 footer-links container">
+                    <div class="col-sm-3 footer-links container">
                         <h4>Useful Links</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx">Home</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#about">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Services</a></li>
                         </ul>
                     </div>
-                    <div class="col-lg-3 col-md-6 footer-links container" style="display: flow;">
-                        <h4>Useful Links</h4>
+                       <div class="col-sm-3 footer-links container" style="margin-top:38px">
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#contact">Contact</a></li>
+                           
+                        </ul>
+                    </div>
+                    <div class="col-sm-3  footer-links container" style=" margin-top:38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Terms of service</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Privacy policy</a></li>
                         </ul>
                     </div>
-                    <!-- <div class="col-lg-6 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div> -->
                 </div>
             </div>
         </div>

@@ -141,7 +141,7 @@ h6 {
 
 #header.header-scrolled {
   /* background: rgb(92, 89, 225); */
-  background: rgb(139, 147, 179);
+  background:white;
   padding: 12px;
 }
 
@@ -206,7 +206,7 @@ h6 {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #fff;
+  color:#008AE8;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -343,12 +343,12 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
-  font-size: 28px;
-  cursor: pointer;
-  display: none;
-  line-height: 0;
-  transition: 0.5s;
+    color: #0284DD;
+    font-size: 28px;
+    cursor: pointer;
+    display: none;
+    line-height: 0;
+    transition: 0.5s;
 }
 
 @media (max-width: 991px) {
@@ -1356,6 +1356,7 @@ section {
   background-position: center center;
   color: #fff;
   font-size: 14px;
+  margin-top:70px
 }
 
 #footer .footer-top {
@@ -1588,9 +1589,26 @@ section {
 }
 
 .inner-page p {
-  font-size: 14pt;
+  font-size: 16pt;
   font-family: 'Merriweather', serif;
 }
-.trul{
-    font-size:13pt !important;
+.inner-page h4{
+    margin-bottom:50px
+}
+.inner-page hr {
+    margin-top: 60px;
+    margin-bottom: 60px
+}
+.trul {
+    font-size: 13pt !important;
+}
+.inner-page ul li{
+    font-size:16pt;
+    margin-top:5px !important;
+}
+.text-center h5{
+    float:right;
+}
+p span {
+    color: #EFC245 !important;
 }

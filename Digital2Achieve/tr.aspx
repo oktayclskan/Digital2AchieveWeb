@@ -36,14 +36,13 @@
 
             <div class="logo">
                 <a href="index.aspx">
-                    <img src="assets/img/Logo/d2a-head-logo2.png"/></a>
+                    <img src="assets/img/Logo/d2a-head-logo2.png" width="110" /></a>
             </div>
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto active" href="#hero">Anasayfa</a></li>
                     <li><a class="nav-link scrollto" href="#about">Hakkımızda</a></li>
                     <li><a class="nav-link scrollto" href="#services">Servisler</a></li>
-                    <li><a class="nav-link scrollto" href="#portfolio">Portfolyö</a></li>
 
                     <li><a class="nav-link scrollto" href="#contact">İletişim</a></li>
                     <li><a class="nav-link scrollto" href="tr.aspx">
@@ -78,7 +77,7 @@
                 <div class="slide-container">
                     <div class="slide">
                         <div class="content">
-                            <img src="assets/img/worldwall3.jpg" class="opacity-50 w-100" alt="">
+                            <img src="assets/img/worldwall3.jpg" class="opacity-50 w-100" />
                             <h1 class="position-absolute">MARKA İLE MÜŞTERİ ARASINDAKİ BAĞLANTININ ADRESİ </h1>
                         </div>
                         <video src="assets/Video/slidev3 (online-video-cutter.com).mp4" muted autoplay loop></video>
@@ -117,9 +116,9 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h3 style="color: rgb(216 215 205);">İŞİNİZ İNTERNETTE YOKSA İŞİNİZ TUTMAZ
-            <br>
-                        <h5 class="text-dark">-Bill Gates</h5>
+                    <h3 style="color: #EEFF41 ;">İŞİNİZ İNTERNETTE YOKSA İŞİNİZ TUTMAZ
+            <br />
+                        <h5>-Bill Gates</h5>
                     </h3>
                 </div>
 
@@ -127,68 +126,56 @@
         </section>
         <!-- End Cta Section -->
         <!-- ======= About Section ======= -->
+
+
+
+        <!-- End Cta Section -->
+        <!-- ======= About Section ======= -->
         <section id="about" class="services" style="margin-top: 10%;">
             <div class="container">
 
                 <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-                    <h2>Hakkımızda</h2>
+                    <h2 style="color: rgb(216 215 205);">About Us</h2>
                     <div class="row mt-3 justify-content-center">
-
-
-
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="margin-left:4%">
                             <div class="icon-box" data-aos="fade-up">
-                                <img src="assets/img/AboutUs/broadAudience.png" width="100" alt="" />
+                                <img src="assets/img/AboutUs/broadAudience.png" class="w-100" />
                                 <!-- <h4 class="title"><a href="">LEAD GENERATION ADS MARKETING</a></h4> -->
                                 <h3 class="description" style="color: rgb(216 215 205);">
                                     <br />
                                     <br />
-                                    Markanızın görünürlüğünü artırmak ve
+                                     Markanızın görünürlüğünü artırmak ve
                   daha geniş bir kitleye ulaşmak mı istiyorsunuz?
                                 </h3>
                             </div>
                         </div>
-
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="margin-left: 85px;">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0 mt-3" style="margin-left:4%">
                             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                                <img src="assets/img/AboutUs/wider-reach.webp" width="100" alt="" />
+                                <img src="assets/img/AboutUs/wider-reach.gif" class="w-100" />
                                 <!-- <h4 class="title"><a href="">SOCIAL MEDIA MANAGEMENT</a></h4> -->
                                 <p class="description">
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn" style="width: 100%" data-bs-toggle="modal"
+                                    <button type="button" class="btn" style="width: 100%; color: rgb(216 215 205);" data-bs-toggle="modal"
                                         data-bs-target="#staticBackdrop">
                                         <i class="fa-regular fa-file-lines float-start p-1"></i>
-                                        <h3 class="description" style="color: rgb(216 215 205);">
-                                            <br />
-                                            <br />
-                                            Dijital pazarlama, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama
-                      stratejileri kullanarak hedef ...
-                                        </h3>
+                                       Dijital pazarlama, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama stratejileri kullanarak hedef kitleleriyle etkileşime geçmektir.
                                     </button>
                                     <!-- Modal -->
 
                                     <div class="modal fade mt-5 " id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false"
                                         tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
                                         <div class="modal-dialog">
-                                            <div class="modal-content" style="margin-top: 55%;">
+                                            <div class="modal-content" style="margin-top: 50%;">
                                                 <div class="modal-header" style="background-color: rgba(30,47,66);">
                                                     <h5 style="font-weight: 900; color: rgba(225,214,95);" class="modal-title"
                                                         id="staticBackdropLabel">Digital2Achieve</h5>
-                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                    <button type="button" class="btn-close" style="background-color: white" data-bs-dismiss="modal"
+                                                        aria-label="Close">
+                                                    </button>
                                                 </div>
-                                                <div class="modal-body" style="background-color: silver; color: black;">
-                                                    Dijital pazarlama, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama
-                        stratejileri kullanarak hedef kitleleriyle etkileşime geçmek ve sonuçta satışları artırmak için
-                        kullanılan bir yöntemdir.
-
-                        Londra merkezli Dijitalle Başar (Digital2Achieve) Pazarlama ve Danışmanlık olarak şirketimiz,
-                        dil, coğrafya ve kültürler arası sınırsız reklam gücüne sahip çok dilli bir ekip ile size destek
-                        sağlamaktadır. İngilizce, Almanca, Arapça, İspanyolca ve Rusça gibi dillerde uzmanlaşmış
-                        ekibimiz, uluslararası pazarlarda etkili bir şekilde iletişim kurmanızı sağlar. Çeşitli
-                        kültürlere ve coğrafyalara aşina olan ekip üyelerimiz, hedef kitlenizle bağlantı kurmanıza
-                        yardımcı olur ve pazarlama çabalarınızı hem lokal hem de global ölçekte sizin hedef kitle
-                        tavsiyelerinize göre genişletmenize imkan tanır.
-
+                                                <div class="modal-body" style="background-color: rgba(95,100,148); color: rgb(216 215 205);">
+                                                   
+Dijital pazarlama, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama stratejileri kullanarak hedef kitleleriyle etkileşime geçmek ve sonuçta satışları artırmak için kullanılan bir yöntemdir
                                                 </div>
                                             </div>
                                         </div>
@@ -198,31 +185,27 @@
                             </div>
                         </div>
 
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="margin-left: 85px;">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0 mt-3" style="margin-left:4%">
                             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-                                <img src="assets/img/AboutUs/activeDigital.png" width="100%" alt="">
+                                <img src="assets/img/AboutUs/activeDigital.png" class="w-100" alt="">
                                 <!-- <h4 class="title"><a href="">WEB DESIGN AND DEVELOPMENT</a></h4> -->
 
                                 <p class="description">
 
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn" style="width: 100%;" data-bs-toggle="modal"
+                                    <button type="button" class="btn" style="width: 100%; color: rgb(216 215 205);" data-bs-toggle="modal"
                                         data-bs-target="#staticBackdropp">
                                         <i class="fa-regular fa-file-lines float-start p-1"></i>
-                                        <h3 class="description" style="color: rgb(216 215 205);">
-                                            <br>
-                                            <br>
-                                            Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğunu anlıyoruz.
-                      Şirketler müşterileri ile güçlü ilişkiler kurmak için.
-                                        </h3>
-
+                                        
+Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğunu anlıyoruz.
+                    Şirketler müşterileri ile güçlü ilişkiler kurmak için.
                                     </button>
                                     <!-- Modal -->
 
                                     <div class="modal fade mt-5 " id="staticBackdropp" data-bs-backdrop="static" data-bs-keyboard="false"
                                         tabindex="-1" aria-labelledby="staticBackdropLabell" aria-hidden="true">
                                         <div class="modal-dialog">
-                                            <div class="modal-content" style="margin-top: 55%;">
+                                            <div class="modal-content" style="margin-top: 45%;">
                                                 <div class="modal-header" style="background-color: rgba(30,47,66);">
                                                     <h5 style="font-weight: 900; color: rgba(225,214,95);" class="modal-title"
                                                         id="staticBackdropLabell">Digital2Achieve</h5>
@@ -230,14 +213,13 @@
                                                         aria-label="Close">
                                                     </button>
                                                 </div>
-                                                <div class="modal-body" style="background-color: silver; color: black;">
-                                                    <b>Digital2Achieve</b> Pazarlama ve Danışmanlık, size yardımcı olmak için buradayız
+                                                <div class="modal-body" style="background-color: rgba(95,100,148); color: rgb(216 215 205);">
+                                                   <b>Digital2Achieve</b> Pazarlama ve Danışmanlık, size yardımcı olmak için buradayız
                         ister yerel bölgenizde ister dünya çapında olsun, markanızın değerini artırın. ekibimiz
                         uzmanlar
                         en son dijital pazarlama tekniklerini kullanacak ve özel stratejiler uygulayacaktır.
                         marka
-                        her zamankinden daha fazla tanınabilir. Markanızın tüm potansiyelini ortaya çıkarmak için
-                        birlikte çalışalım
+                        her zamankinden daha fazla tanınabilir. Markanızın tüm potansiyelini ortaya çıkarmak için birlikte çalışalım
                         Ve
                         benzersiz başarıya ulaşın!
                                                 </div>
@@ -250,19 +232,19 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </section>
         <!-- End About Section -->
 
         <!-- ======= Cta Section ======= -->
         <section id="cta" class="cta quote-text-color">
             <div class="container" data-aos="zoom-in">
-
                 <div class="text-center">
-                    <h3 style="color: rgb(216 215 205);">Zor zamanlarda pazarlama bir lüks değil, bağlantı kurmak için bir
+                    <h3 style="color: #EEFF41 ;">Zor zamanlarda pazarlama bir lüks değil, bağlantı kurmak için bir
             gerekliliktir
             İzleyicilerle etkileşime geçin ve markaya güven ve sadakat oluşturun.
                         <br />
-                        <h5 class="text-dark">-Ran Fishkin</h5>
+                        <h5>-Ran Fishkin</h5>
                     </h3>
                 </div>
 
@@ -395,7 +377,7 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h3>İçeriği ve hikayesi olan iyi organize edilmiş bir web sitesi, binlerce kişiyi dönüştürebilir.
+                    <h3 style="color: #EEFF41 ">İçeriği ve hikayesi olan iyi organize edilmiş bir web sitesi, binlerce kişiyi dönüştürebilir.
             tanımadığınız insanları markanıza sadık bir müşteri tabanına dönüştürün
                         <br />
                         <h5>-Erdogan Tabur </h5>
@@ -405,138 +387,6 @@
             </div>
         </section>
         <!-- End Cta Section -->
-
-        <!-- ======= Portfolio Section ======= -->
-        <section id="portfolio" class="portfolio" style="margin-top: 10%;">
-            <div class="container">
-
-                <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-                    <h2 style="color: #e3ed1e;">Portfolio</h2>
-                    <p class="text-white">
-                        Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum
-            quidem. Sit sint
-            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-            in iste officiis commodi quidem hic quas.
-                    </p>
-                </div>
-
-                <div class="row" data-aos="fade-in">
-                    <div class="col-lg-12 d-flex justify-content-center">
-                        <ul id="portfolio-flters">
-                            <li data-filter="*" class="filter-active">All</li>
-                            <li data-filter=".filter-app">App</li>
-                            <li data-filter=".filter-card">Card</li>
-                            <li data-filter=".filter-web">Web</li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="row portfolio-container" data-aos="fade-up">
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="" />
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="" />
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="" />
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="" />
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="" />
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section>
-        <!-- End Portfolio Section -->
 
         <!-- ======= Testimonials Section ======= -->
         <section id="testimonials" class="testimonials section-bg" style="margin-top: 10%;">
@@ -557,7 +407,7 @@
                   oluşturmak için bir zorundalıktır.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/Rand Fishkin.jpg" class="testimonial-img" alt="">
+                                <img src="assets/img/testimonials/Rand Fishkin.jpg" class="testimonial-img" />
                                 <h3 class="text-secondary">Ran Fishkin</h3>
                                 <h4>Sanatçı</h4>
                             </div>
@@ -572,7 +422,7 @@
                   araçtır”
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" />
                                 <h3 class="text-secondary">Erdogan Tabur</h3>
                                 <h4>Tasarımcı</h4>
                             </div>
@@ -587,7 +437,7 @@
                   taşlarından biridir."
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/Steve Jobs.jpg" class="testimonial-img" alt="">
+                                <img src="assets/img/testimonials/Steve Jobs.jpg" class="testimonial-img" />
                                 <h3 class="text-secondary">Steve Jobs</h3>
                                 <h4>CEO</h4>
                             </div>
@@ -821,46 +671,29 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row">
-                    <!-- <div class="col-lg-4 col-md-6">
-            <div class="footer-info w-75">
-              <h3>Squadfree</h3>
-              <p class="pb-3"><em>Qui repudiandae et eum dolores alias sed ea. Qui suscipit veniam excepturi quod.</em>
-              </p>
-              <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
-              </p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
-            </div>
-          </div> -->
-                    <div class="col-lg-3 col-md-6 footer-links container">
+                    <div class="col-sm-3 footer-links container">
                         <h4>Bağlantılar</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx">Home</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#about">Hakkımızda
                             </a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
+                        <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Servislerimiz</a>
+                            </li>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#contact">İletişim</a>
                             </li>
                         </ul>
                     </div>
-                    <div class="col-lg-3 col-md-6 footer-links container" style="display: flow;">
-                        <h4>Bağlantılar</h4>
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Kullanım Şartları
                             </a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Gizlilik Politikası</a></li>
                         </ul>
                     </div>
-
-
                 </div>
             </div>
         </div>

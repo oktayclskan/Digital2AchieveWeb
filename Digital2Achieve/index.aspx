@@ -34,21 +34,20 @@
 
             <div class="logo">
                 <a href="index.aspx">
-                    <img src="assets/img/Logo/d2a-head-logo2.png"alt=""/></a>
+                    <img src="assets/img/Logo/d2a-head-logo2.png" width="110" class="img-fluid" /></a>
             </div>
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
                     <li><a class="nav-link scrollto" href="#about">About Us</a></li>
                     <li><a class="nav-link scrollto" href="#services">Services</a></li>
-                    <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
                     <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
 
                     <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                     <li><a class="nav-link scrollto" href="tr.aspx">
-                        <img src="assets/img/Language/turkey.png" alt=""></a></li>
+                        <img src="assets/img/Language/turkey.png" /></a></li>
                     <li><a class="nav-link scrollto" href="index.aspx">
-                        <img src="assets/img/Language/united-kingdom.png" alt=""></a></li>
+                        <img src="assets/img/Language/united-kingdom.png" /></a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
@@ -65,8 +64,10 @@
                 <div class="slide-container active">
                     <div class="slide">
                         <div class="content">
-                            <img src="assets/img/worldwalll.jpg" class="opacity-50 w-100" alt="">
-                            <h1 class="position-absolute text-white">Elevate Your Brand, Ignite Your Success: Your Journey Starts Here
+                            <img src="assets/img/worldwalll.jpg" class="opacity-50 w-100" />
+                            <h1 class="position-absolute text-white">Elevate Your Brand, Ignite Your Success:
+                                <br />
+                                <span class="float-end" style="margin-top: 20%;">Your Journey Starts Here...</span>
                             </h1>
                         </div>
                         <video src="assets/Video/slidev1.mp4" muted autoplay loop></video>
@@ -76,7 +77,7 @@
                 <div class="slide-container">
                     <div class="slide">
                         <div class="content">
-                            <img src="assets/img/worldwall3.jpg" class="opacity-25 w-100" alt="">
+                            <img src="assets/img/worldwall3.jpg" class="opacity-25 w-100 h-100" />
                             <h1 class="position-absolute text-white">We Are Crafting Connections, Between Brand And Buyer</h1>
                         </div>
                         <video src="assets/Video/slidev3 (online-video-cutter.com).mp4" muted autoplay loop></video>
@@ -85,7 +86,7 @@
                 <div class="slide-container">
                     <div class="slide">
                         <div class="content">
-                            <img src="assets/img/walbacki.jpg" class="opacity-25 w-100" alt="">
+                            <img src="assets/img/walbacki.jpg" class="opacity-25 w-100 h-100" />
                             <h1 class="position-absolute text-white">Helping to navigate for better possibilities</h1>
                         </div>
                         <video src="assets/Video/plexus_-_27669 (1080p).mp4" muted autoplay loop></video>
@@ -115,10 +116,10 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h2 style="color: rgba(225, 214, 95);">If your business is not on the Internet then your business will be out
+                    <h2 style="color: #EEFF41 ;">If your business is not on the Internet then your business will be out
             of business
-            <br>
-                        <h4>-Bill Gates</h4>
+            <br />
+                        <h5>-Bill Gates</h5>
                     </h2>
                 </div>
 
@@ -132,26 +133,22 @@
                 <div class="section-title" data-aos="fade-in" data-aos-delay="100">
                     <h2 style="color: rgb(216 215 205);">About Us</h2>
                     <div class="row mt-3 justify-content-center">
-
-
-
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="margin-left:4%">
                             <div class="icon-box" data-aos="fade-up">
-                                <img src="assets/img/AboutUs/broadAudience.png" width="100%" alt="">
+                                <img src="assets/img/AboutUs/broadAudience.png" class="w-100" />
                                 <!-- <h4 class="title"><a href="">LEAD GENERATION ADS MARKETING</a></h4> -->
                                 <h3 class="description" style="color: rgb(216 215 205);">
-                                    <br>
-                                    <br>
+                                    <br />
+                                    <br />
                                     Are you looking to increase your
                   brand's
                   visibility and reach a larger audience?
                                 </h3>
                             </div>
                         </div>
-
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="margin-left: 85px;">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0 mt-3" style="margin-left:4%">
                             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                                <img src="assets/img/AboutUs/wider-reach.webp" width="100%" alt="">
+                                <img src="assets/img/AboutUs/wider-reach.gif" class="w-100" />
                                 <!-- <h4 class="title"><a href="">SOCIAL MEDIA MANAGEMENT</a></h4> -->
                                 <p class="description">
                                     <!-- Button trigger modal -->
@@ -187,9 +184,9 @@
                             </div>
                         </div>
 
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="margin-left: 85px;">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0 mt-3" style="margin-left:4%">
                             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-                                <img src="assets/img/AboutUs/activeDigital.png" width="100%" alt="">
+                                <img src="assets/img/AboutUs/activeDigital.png" class="w-100" alt="">
                                 <!-- <h4 class="title"><a href="">WEB DESIGN AND DEVELOPMENT</a></h4> -->
 
                                 <p class="description">
@@ -198,8 +195,7 @@
                                     <button type="button" class="btn" style="width: 100%; color: rgb(216 215 205);" data-bs-toggle="modal"
                                         data-bs-target="#staticBackdropp">
                                         <i class="fa-regular fa-file-lines float-start p-1"></i>
-                                        We understand that in today's tough economic climate, it's crucial for
-                    companies to establish strong relationships with their customers.
+                                       Digital is the promotion of products or businesses of marketing businesses on digital platforms, circulating with their target audience by reducing marketing.
                                     </button>
                                     <!-- Modal -->
 
@@ -216,13 +212,7 @@
                                                 </div>
                                                 <div class="modal-body" style="background-color: rgba(95,100,148); color: rgb(216 215 205);">
                                                     At <b>Digital2Achieve</b> Marketing and Consultancy, we're here to help you
-                        increase your brand's value, whether it's in your local area or across the globe. Our team of
-                        experts
-                        will use the latest digital marketing techniques and implement specific strategies to make your
-                        brand
-                        more recognizable than ever before. Let's work together to unlock your brand's full potential
-                        and
-                        achieve unparalleled success!
+                       Digital marketing is a method used by businesses to promote their products or services on digital platforms, interact with their target audience using marketing strategies and ultimately increase sales.
                                                 </div>
                                             </div>
                                         </div>
@@ -233,6 +223,7 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </section>
         <!-- End About Section -->
 
@@ -241,10 +232,10 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h2 style="color: rgba(225, 214, 95);">Marketing in tough times is not a luxury, but a necessity to connect
+                    <h2 style="color: #EEFF41 ;">Marketing in tough times is not a luxury, but a necessity to connect
             with audiences and build trust and loyalty to the brand.
-            <br>
-                        <h4>-Ran Fishkin</h4>
+            <br />
+                        <h5>-Ran Fishkin</h5>
                     </h2>
                 </div>
 
@@ -376,147 +367,17 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h2 style="color: rgba(225, 214, 95);">A well-organized website with content and story can turn thousands of
+                    <h2 style="color: #EEFF41 ;">A well-organized website with content and story can turn thousands of
             people you don't know into a customer base that is loyal to your brand.
-                        <br>
-                        <h4>-Erdogan Tabur </h4>
+                        <br />
+                        <h5>-Erdogan Tabur </h5>
                     </h2>
                 </div>
 
             </div>
         </section>
         <!-- End Cta Section -->
-        </section><!-- End Cta Section -->
 
-        <!-- ======= Portfolio Section ======= -->
-        <section id="portfolio" class="portfolio" style="margin-top: 10%;">
-            <div class="container">
-
-                <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-                    <h2>Portfolio</h2>
-                    <!-- <p class="text-white">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum
-            quidem. Sit sint
-            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-            in iste officiis commodi quidem hic quas.</p> -->
-                </div>
-
-                <div class="row" data-aos="fade-in">
-                    <div class="col-lg-12 d-flex justify-content-center">
-                        <ul id="portfolio-flters">
-                            <li data-filter="*" class="filter-active">All</li>
-                            <li data-filter=".filter-app">App</li>
-                            <li data-filter=".filter-card">Card</li>
-                            <li data-filter=".filter-web">Web</li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="row portfolio-container" data-aos="fade-up">
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.aspx" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section>
-        <!-- End Portfolio Section -->
 
         <!-- ======= Testimonials Section ======= -->
         <section id="testimonials" class="testimonials section-bg">
@@ -781,7 +642,8 @@
                                 <div class="sent-message">Your message has been sent. Thank you!</div>
                             </div>
                             <div class="text-center">
-                                <button type="submit">Send Message</button></div>
+                                <button type="submit">Send Message</button>
+                            </div>
                         </form>
                     </div>
 
@@ -799,48 +661,26 @@
         <div class="footer-top">
             <div class="container">
                 <div class="row">
-                    <!-- <div class="col-lg-4 col-md-6">
-            <div class="footer-info w-75">
-              <h3>Squadfree</h3>
-              <p class="pb-3"><em>Qui repudiandae et eum dolores alias sed ea. Qui suscipit veniam excepturi quod.</em>
-              </p>
-              <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
-              </p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
-            </div>
-          </div> -->
-                    <div class="col-lg-3 col-md-6 footer-links container">
+                    <div class="col-sm-3 footer-links container">
                         <h4>Useful Links</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx">Home</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#about">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Services</a></li>
                         </ul>
                     </div>
-                    <div class="col-lg-3 col-md-6 footer-links container" style="display: flow;">
-                        <h4>Useful Links</h4>
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#contact">Contact</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Terms of service</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Privacy policy</a></li>
                         </ul>
                     </div>
-                    <!-- <div class="col-lg-6 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div> -->
                 </div>
             </div>
         </div>
