@@ -35,7 +35,7 @@
 
             <div class="logo">
                 <a href="../index.aspx">
-                    <img src="../assets/img/Logo/d2a-head-logo2.png" width="110"/></a>
+                    <img src="../assets/img/Logo/d2a-head-logo2.png" width="110" /></a>
             </div>
 
             <nav id="navbar" class="navbar">
@@ -61,10 +61,11 @@
 
         <section class="inner-page">
             <div class="container">
+                <h4 style="text-align: center; font-size: 30pt;">MARKALAŞMA</h4>
+                <hr />
                 <div class="row">
-                    <div class="col-md-9 mt-5">
-                        <h4 style="text-align: center;">Markalaşma</h4>
-                        <p class="align-items-center mt-2">
+                    <div class="col-md-9 mt-4">
+                        <p class="align-items-center">
                             Markalaşmak, bir şirketin veya
               firmanın kendini benzersiz ve tanınabilir bir şekilde pazarlamasını, müşterilerin zihinlerinde özel bir
               konum oluşturmasını ve diğer rakiplerinden ayrışmasını sağlayan süreçtir.
@@ -72,17 +73,16 @@
                         </p>
                     </div>
                     <div class="col-md-3 mt-4">
-                        <img src="../assets/img/gif/b.gif" style="opacity: 0.7;" class="img-fluid w-50" />
+                        <img src="../assets/img/gif/b.gif" style="opacity: 0.7;" class="img-fluid w-25" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
                         <div class="col-md-12">
                             <h4 style="text-align: center;">Markalaşmanın kısaca önemi nedir?</h4>
 
-                            <ul class="text-white">
+                            <ul>
                                 <li class="mt-3">Rakiplerinden ayrıştırır ve rekabet üstünlüğü sağlar.</li>
-                                <li class="mt-3">
-                                        Güven ve itibar oluşturur.
+                                <li class="mt-3">Güven ve itibar oluşturur.
                                 </li>
                                 <li class="mt-">Müşterilerinizin gözünde değer yaratır ve fiyatlandırma gücü oluşturur.</li>
                                 <li class="mt-3">Müşteri bağlılığı ve sadakati oluşturur.</li>
@@ -108,6 +108,7 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </section>
 
     </main>
@@ -126,7 +127,7 @@
                             </a></li>
                         </ul>
                     </div>
-                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Servislerimiz</a>
                             </li>
@@ -134,7 +135,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Kullanım Şartları
                             </a></li>

@@ -101,9 +101,12 @@
     <Content Include="assets\img\portfolio\portfolio-details-3.jpg" />
     <Content Include="assets\img\testimonials\Beth Comstock.jpg" />
     <Content Include="assets\img\testimonials\BillGates.jpg" />
+    <Content Include="assets\img\testimonials\Joe-Chernov.jpg" />
     <Content Include="assets\img\testimonials\Me-2_edited.jpg" />
     <Content Include="assets\img\testimonials\NeilPatel.jpeg" />
     <Content Include="assets\img\testimonials\Rand Fishkin.jpg" />
+    <Content Include="assets\img\testimonials\Seth-Godiin.jpg" />
+    <Content Include="assets\img\testimonials\Seth-Godin.jpg" />
     <Content Include="assets\img\testimonials\Shiv Singh.jpg" />
     <Content Include="assets\img\testimonials\Steve Jobs.jpg" />
     <Content Include="assets\img\testimonials\testimonials-1.jpg" />
@@ -111,6 +114,9 @@
     <Content Include="assets\img\testimonials\testimonials-3.jpg" />
     <Content Include="assets\img\testimonials\testimonials-4.jpg" />
     <Content Include="assets\img\testimonials\testimonials-5.jpg" />
+    <Content Include="assets\img\testimonials\Tom-Fisburne.jpeg" />
+    <Content Include="assets\img\testimonials\Warren-Buffets.jpg" />
+    <Content Include="assets\img\testimonials\warren-buffetts.jpg" />
     <Content Include="assets\img\walbacki.jpg" />
     <Content Include="assets\img\worldwall3.jpg" />
     <Content Include="assets\img\worldwalll.jpg" />

@@ -61,9 +61,10 @@
 
         <section class="inner-page">
             <div class="container">
+                        <h4 style="text-align: center; font-size: 30pt;">POTANSİYEL MÜŞTERİ OLUŞTURMA</h4>
+                        <hr />
                 <div class="row">
                     <div class="col-md-9 mt-4">
-                        <h4 style="text-align: center;">Potansiyel Müşteri Oluşturma</h4>
                         <p class="align-items-center">
                             Potansiyel müşteri oluşturma pazarlaması,
               bir ürüne, hizmete veya teklife ilgi gösteren bireylerden iletişim bilgilerini veya diğer ilgili verileri
@@ -71,7 +72,7 @@
                         </p>
                     </div>
                     <div class="col-md-3">
-                        <img src="../assets/img/gif/lgamd2a.gif" style="opacity: 0.7;" class="img-fluid" />
+                        <img src="../assets/img/gif/lgamd2a.gif" style="opacity: 0.7;" class="img-fluid w-50" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
@@ -102,6 +103,7 @@
                         <div class="col-md-3">
                             <img src="../assets/img/gif/LGAM.gif" style="opacity: 0.7;" class="img-fluid" />
                         </div>
+                    </div>
                     </div>
                 </div>
         </section>

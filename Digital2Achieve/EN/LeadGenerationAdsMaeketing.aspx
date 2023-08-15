@@ -77,10 +77,10 @@
 
         <section class="inner-page">
             <div class="container">
+                <h4 style="text-align: center;">LEAD GENERATION ADS MARKETING</h4>
+                <hr />
                 <div class="row">
                     <div class="col-md-9 mt-4">
-                        <h4 style="text-align: center;">LEAD GENERATION ADS MARKETING</h4>
-                        <br>
                         <p class="align-items-center">
                             Lead generation ads marketing is an
               effective tool used to collect contact details or other relevant data from individuals who have shown
@@ -88,7 +88,7 @@
                         </p>
                     </div>
                     <div class="col-md-3">
-                        <img src="../assets/img/gif/lgamd2a.gif" class="img-fluid" alt="" />
+                        <img src="../assets/img/gif/lgamd2a.gif" class="img-fluid w-50" alt="" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
@@ -121,6 +121,7 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </section>
 
     </main>
@@ -145,7 +146,7 @@
 
                         </ul>
                     </div>
-                    <div class="col-sm-3  footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3  footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Terms of service</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Privacy policy</a></li>

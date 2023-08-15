@@ -76,9 +76,10 @@
 
         <section class="inner-page">
             <div class="container">
+                <h4 style="text-align: center;">WEB DESIGN AND DEVELOPMENT</h4>
+                <hr />
                 <div class="row">
                     <div class="col-md-9 mt-5">
-                        <h4 style="text-align: center;">WEB DESIGN AND DEVELOPMENT</h4>
                         <p class="align-items-center mt-2">
                             Web design and development is the process of
               designing, creating and technically developing the visual design, user interface and user experience of a
@@ -120,11 +121,12 @@
                   This, in turn, can result in increased sales for your business.
                             </p>
                         </div>
-                        <div class="col-md-3 mt-4">
+                        <div class="col-md-3" style="margin-top: 6%">
                             <img src="../assets/img/gif/wdadd2a.gif" style="opacity: .7;" class="img-fluid w-100" />
                         </div>
                     </div>
                 </div>
+            </div>
         </section>
 
     </main>
@@ -149,7 +151,7 @@
 
                         </ul>
                     </div>
-                    <div class="col-sm-3  footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3  footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Terms of service</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Privacy policy</a></li>

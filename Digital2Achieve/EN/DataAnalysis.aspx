@@ -61,12 +61,13 @@
 
         <section class="inner-page">
             <div class="container">
+                <h4 style="text-align: center; font-size: 30pt;">DATA ANALYSIS</h4>
+                <hr />
                 <div class="row">
                     <div class="col-md-6">
                         <img src="../assets/img/4386296.png" class="img-thumbnail" />
                     </div>
                     <div class="col-md-6">
-                        <h4 style="text-align: center; font-size: 20pt;">DATA ANALYSIS</h4>
                         <p class="mt-5">
                             Our team takes a close look at everything we do in Social Media Management, Content Marketing, web design,
               SEO and Branding. We collect data super carefully and turn it into easy-to-understand reports that show
@@ -113,7 +114,7 @@
 
                         </ul>
                     </div>
-                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Terms of service</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Privacy policy</a></li>

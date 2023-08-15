@@ -62,13 +62,14 @@
 
         <section class="inner-page">
             <div class="container">
+                <h4 style="text-align: center; font-size: 30pt;">DATA ANALİZİ</h4>
+                <hr />
                 <div class="row">
-                    <div class="col-md-6 mt-4">
+                    <div class="col-md-6">
                         <img src="../assets/img/4386296.png" class="img-thumbnail" alt="">
                     </div>
                     <div class="col-md-6">
-                        <h4 style="text-align: center; font-size: 20pt;">Data Analizi</h4>
-                        <p class="text-white mt-5">
+                        <p class="mt-5">
                             Dijital dünyada şirketinizin pazarlama yöntemlerinin etkin bir şekilde değerlendirilmesi
                             kritik bir öneme sahiptir. Sosyal Medya Yönetimi, İçerik Pazarlaması, web tasarımı, SEO ve
                             Markalaşma alanlarında gerçekleştirdiğimiz çalışmaları titizlikle analiz ediyoruz. Kapsamlı
@@ -94,7 +95,7 @@
 
                         </p>
                     </div>
-                    <div class="col-md-6 mt-5">
+                    <div class="col-md-6" style="margin-top: 6%">
                         <img src="../assets/img/data-analysis2.png" class="img-thumbnail" alt="">
                     </div>
 
@@ -119,7 +120,7 @@
                             </a></li>
                         </ul>
                     </div>
-                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Servislerimiz</a>
                             </li>
@@ -127,7 +128,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Kullanım Şartları
                             </a></li>

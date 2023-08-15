@@ -93,10 +93,8 @@
                     </div>
                 </div>
 
-                <div id="next" onclick="next()">> </div>
-                <div id="prev" onclick="prev()">
-                    <
-                </div>
+               <div id="next" onclick="next()" style="color:white;">> </div>
+                <div id="prev" onclick="prev()" style="color:white;">< </div>
             </div>
 
         </div>
@@ -370,7 +368,7 @@
                     <h2 style="color: #EEFF41 ;">A well-organized website with content and story can turn thousands of
             people you don't know into a customer base that is loyal to your brand.
                         <br />
-                        <h5>-Erdogan Tabur </h5>
+                        <h5>-Erdoğan Tabur </h5>
                     </h2>
                 </div>
 
@@ -381,11 +379,11 @@
 
         <!-- ======= Testimonials Section ======= -->
         <section id="testimonials" class="testimonials section-bg">
+
             <div class="container">
 
                 <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-                    <h2>SPEECHES THAT LEAD TO SUCCESS</h2>
-
+                    <h2>BAŞARIYA GÖTÜREN SÖYLEMLER</h2>
                 </div>
 
                 <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -394,15 +392,13 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
-                                    <i class="bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    “In tough times, marketing is not luxury, it's connecting with the masses and building trust and
-                  loyalty to the brand.
-                  It's a must to create.”
+                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
+                                Your premium brand had better be delivering something special, or it's not going to get the business.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/Rand Fishkin.jpg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Ran Fishkin</h3>
-                                <h4>Entrepreneur</h4>
+                                <img src="assets/img/testimonials/warren-buffets.jpg" class="testimonial-img" />
+                                <h3 class="text-secondary">Warren Buffet</h3>
+                                <h4>Businessman, Investor</h4>
                             </div>
                         </div>
                         <!-- End testimonial item -->
@@ -417,7 +413,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
                                 <img src="assets/img/testimonials/Me-2_edited.jpg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Erdogan Tabur</h3>
+                                <h3 class="text-secondary">Erdoğan Tabur</h3>
                                 <h4>Founder</h4>
                             </div>
                         </div>
@@ -425,81 +421,53 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);" class="pb-5">
-                                    <i class="bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    "A well-designed website is the key to retaining and converting your customers.
-                  one of its stones.
-                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
-                                </p>
-                                <img src="assets/img/testimonials/Steve Jobs.jpg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Steve Jobs</h3>
-                                <h4>CEO</h4>
-                            </div>
-                        </div>
-                        <!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);" class="pb-5">
-                                    <i class="bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    "Digital marketing is an art where everything starts and ends with the customer."
-                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
-                                </p>
-                                <img src="assets/img/testimonials/Shiv Singh.jpg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Shiv Singh</h3>
-                                <h4>Artist</h4>
-                            </div>
-                        </div>
-                        <!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
                                 <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
-                                    <i class="bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    Don't let your fear affect your branding strategy in times of crisis. On the contrary
-                  Continue to strengthen your organic bond with your customers with advertisements.
+                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
+                                 The best marketing doesn't feel like marketing.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/NeilPatel.jpeg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Neil Patel</h3>
+                                <img src="assets/img/testimonials/Tom-Fisburne.jpeg" class="testimonial-img" />
+                                <h3 class="text-secondary">Tom Fisburne</h3>
                                 <h4>Entrepreneur</h4>
                             </div>
                         </div>
                         <!-- End testimonial item -->
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
-                                    <i class="bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    Don't let your fear affect your branding strategy in times of crisis. On the contrary
-                  Continue to strengthen your organic bond with your customers with advertisements.
-                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
-                                </p>
-                                <img src="assets/img/testimonials/Beth Comstock.jpg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Beth Comstock</h3>
-                                <h4>Business Manager</h4>
-                            </div>
 
-                        </div>
-                        <!-- End testimonial item -->
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
-                                    <i class="bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    A company that does not exist in the digital world is a company that does not exist.
+                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);" class="pb-5">
+                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
+                                   Good marketing makes the company look smart. Great marketing makes the customer feel smart.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/BillGates.jpg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Bill Gates </h3>
-                                <h4>Business Person</h4>
+                                <img src="assets/img/testimonials/Joe-Chernov.jpg" class="testimonial-img" alt="">
+                                <h3 class="text-secondary">Joe Chernov</h3>
+                                <h4>Entrepreneur</h4>
                             </div>
                         </div>
                         <!-- End testimonial item -->
+
+                        <div class="swiper-slide">
+                            <div class="testimonial-item">
+                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
+                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
+                                Marketing is no longer about the stuff that you make, but about the stories you tell.
+                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
+                                </p>
+                                <img src="assets/img/testimonials/Seth-Godiin.jpg" class="testimonial-img" alt="">
+                                <h3 class="text-secondary">Seth Godin</h3>
+                                <h4>Author</h4>
+                            </div>
+                        </div>
+                        <!-- End testimonial item -->
+                       
 
                     </div>
                     <div class="swiper-pagination"></div>
                 </div>
 
             </div>
+
         </section>
         <!-- End Testimonials Section -->
 

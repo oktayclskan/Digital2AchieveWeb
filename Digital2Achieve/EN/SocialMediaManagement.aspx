@@ -71,9 +71,10 @@
 
     <section class="inner-page">
       <div class="container">
+            <h1 style="text-align: center;">SOCIAL MEDIA MANAGEMENT</h1>
+              <hr />
         <div class="row">
           <div class="col-md-9 mt-4">
-            <h4 style="text-align: center;">SOCIAL MEDIA MANAGEMENT</h4>
             <p class="align-items-center mt-2">Social media management (Facebook,
               Instagram, Twitter, LinkedIn, etc.) is the implementation of marketing strategies to increase brand
               awareness, promote products or services, interact with the target audience and attract potential customers
@@ -87,7 +88,7 @@
           <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">
             <div class="col-md-12">
-              <h4 style="text-align: center;">What is the importance of social media management?</h3>
+              <h3 style="text-align: center;">What is the importance of social media management?</h3>
                 <ul>
                   <li class="mt-3">It enables companies to communicate directly with their target audience using social
                     media platforms.</li>
@@ -97,10 +98,10 @@
                 </ul>
             </div>
           </div>
-          <hr class="bg-secondary" style="border:2px solid silver;">
+          <hr class="bg-secondary" style="border:2px solid silver;" />
           <div class="row mt-4">
             <div class="col-md-9">
-              <h4 style="text-align: center;">What do we do for you?</h3>
+              <h3 style="text-align: center;">What do we do for you?</h3>
                 <p class="align-items-center"> As <span style="font-weight: 900;color: brown;">
                     (Digital2Achieve)</span> marketing team, we analyse your target audience and create content based on
                   the information and expectations you provide. We manage your brand's social media accounts, produce
@@ -109,6 +110,7 @@
             <div class="col-md-3 mt-4">
               <img src="../assets/img/gif/smmd2a.gif" style="opacity: .7;" class="img-fluid" alt=""/>
             </div>
+          </div>
           </div>
         </div>
     </section>

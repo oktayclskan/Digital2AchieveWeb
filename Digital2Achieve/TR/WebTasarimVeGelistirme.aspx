@@ -55,9 +55,10 @@
   <main id="main">
     <section class="inner-page">
       <div class="container">
+            <h4 style="text-align: center; font-size: 20pt;">WEB TASARIM GELİŞTİRME</h4>
+              <hr />
         <div class="row">
           <div class="col-md-9 mt-5">
-            <h4 style="text-align: center;">Web Tasarim ve Geliştirme</h4>
             <p class="align-items-center mt-2"">Web tasarımı ve geliştirme, bir web
               sitesinin görsel tasarımını, kullanıcı arayüzünü ve kullanıcı deneyimini belirli teknikler kullanarak
               tasarlama, oluşturma ve teknik olarak geliştirme sürecidir. <br />
@@ -72,7 +73,7 @@
               <h4 style="text-align: center;">
                 Kısaca önemi nedir?</h4>
 
-                <ul class="text-white">
+                <ul>
                   <li class="mt-3">İyi bir web sitesi, kullanıcıları çeker.</li>
                   <li class="mt-3">Marka güvenilirliğini artırır.</li>
                   <li class="mt-3">
@@ -96,8 +97,9 @@
                   pazarlayan web siteleri oluşturuyoruz ve biliyoruz ki estetiğin ve mesajın doğru olduğu web siteleri
                   satışa giden yolda önemli bir rol oynar.</p>
             </div>
-            <div class="col-md-3 mt-4">
+            <div class="col-md-3" style="margin-top:6%">
               <img src="../assets/img/gif/wdadd2a.gif" style="opacity: 0.7;" class="img-fluid"/>
+            </div>
             </div>
           </div>
         </div>

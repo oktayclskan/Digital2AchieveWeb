@@ -76,16 +76,17 @@
 
         <section class="inner-page">
             <div class="container">
+                <h4 style="text-align: center;">SEO (SEARCH ENGINE OPTIMISATION)</h4>
+                <hr />
                 <div class="row">
-                    <div class="col-md-9 mt-5">
-                        <h4 style="text-align: center;">SEO (SEARCH ENGINE OPTIMISATION)</h4>
+                    <div class="col-md-9 mt-2">
                         <p class="align-items-center mt-2">
                             SEO is a set of technical and strategic
               applications that enable a website to appear organically at the top of search engines.<br />
                         </p>
                     </div>
                     <div class="col-md-3 mt-1">
-                        <img src="../assets/img/gif/SEO.gif" style="opacity: .7;" class="img-fluid w-50" alt="" />
+                        <img src="../assets/img/gif/SEO.gif" style="opacity: .7;" class="img-fluid w-25" alt="" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;">
                     <div class="row mt-3">
@@ -118,6 +119,7 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </section>
 
     </main>
@@ -141,7 +143,7 @@
 
                         </ul>
                     </div>
-                    <div class="col-sm-3  footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3  footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Terms of service</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Privacy policy</a></li>

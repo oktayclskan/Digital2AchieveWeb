@@ -93,10 +93,8 @@
                     </div>
                 </div>
 
-                <div id="next" onclick="next()">> </div>
-                <div id="prev" onclick="prev()">
-                    <
-                </div>
+                <div id="next" onclick="next()" style="color: white;">> </div>
+                <div id="prev" onclick="prev()" style="color: white;">< </div>
             </div>
 
         </div>
@@ -116,7 +114,7 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h3 style="color: #EEFF41 ;">İŞİNİZ İNTERNETTE YOKSA İŞİNİZ TUTMAZ
+                    <h3 style="color: #EEFF41;">Dijtal dünyada olmayan bir firma var olmayan bir firmadır.
             <br />
                         <h5>-Bill Gates</h5>
                     </h3>
@@ -131,34 +129,55 @@
 
         <!-- End Cta Section -->
         <!-- ======= About Section ======= -->
-        <section id="about" class="services" style="margin-top: 10%;">
+        <%-- <section id="about" class="services" style="margin-top: 10%;">
             <div class="container">
-
-                <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-                    <h2 style="color: rgb(216 215 205);">About Us</h2>
-                    <div class="row mt-3 justify-content-center">
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="margin-left:4%">
-                            <div class="icon-box" data-aos="fade-up">
+                <div class="row">
+                        <div class="col-md-4 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 mt-3">
+                            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                                 <img src="assets/img/AboutUs/broadAudience.png" class="w-100" />
-                                <!-- <h4 class="title"><a href="">LEAD GENERATION ADS MARKETING</a></h4> -->
-                                <h3 class="description" style="color: rgb(216 215 205);">
-                                    <br />
-                                    <br />
+                                <!-- <h4 class="title"><a href="">SOCIAL MEDIA MANAGEMENT</a></h4> -->
+                                <p class="description">
+                                    <!-- Button trigger modal -->
+                                    <button type="button" class="btn" style="width: 100%; color: rgb(216 215 205); font-size:14pt;" data-bs-toggle="modal"
+                                        data-bs-target="#staticBackdrop">
+                                        <i class="fa-regular fa-file-lines float-start p-1"></i>
+                                         Markanızın görünürlüğünü artırmak ve
+                  daha geniş bir kitleye ulaşmak mı istiyorsunuz?
+                                    </button>
+                                    <!-- Modal -->
+
+                                    <div class="modal fade mt-5 " id="staticBackdropLeft" data-bs-backdrop="static" data-bs-keyboard="false"
+                                        tabindex="-1" aria-labelledby="staticBackdropLabelLeft" aria-hidden="true">
+                                        <div class="modal-dialog">
+                                            <div class="modal-content" style="margin-top: 50%;">
+                                                <div class="modal-header" style="background-color: rgba(30,47,66);">
+                                                    <h5 style="font-weight: 900; color: rgba(225,214,95);" class="modal-title"
+                                                        id="staticBackdropLabelLeft">Digital2Achieve</h5>
+                                                    <button type="button" class="btn-close" style="background-color: white; font-size:14pt;" data-bs-dismiss="modal"
+                                                        aria-label="Close">
+                                                    </button>
+                                                </div>
+                                                <div class="modal-body" style="background-color: rgba(95,100,148); color: rgb(216 215 205);">
                                      Markanızın görünürlüğünü artırmak ve
                   daha geniş bir kitleye ulaşmak mı istiyorsunuz?
-                                </h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </p>
                             </div>
                         </div>
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0 mt-3" style="margin-left:4%">
+
+                        <div class="col-md-4 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 mt-3">
                             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
                                 <img src="assets/img/AboutUs/wider-reach.gif" class="w-100" />
                                 <!-- <h4 class="title"><a href="">SOCIAL MEDIA MANAGEMENT</a></h4> -->
                                 <p class="description">
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn" style="width: 100%; color: rgb(216 215 205);" data-bs-toggle="modal"
+                                    <button type="button" class="btn" style="width: 100%; color: rgb(216 215 205); font-size:14pt;" data-bs-toggle="modal"
                                         data-bs-target="#staticBackdrop">
-                                        <i class="fa-regular fa-file-lines float-start p-1"></i>
-                                       Dijital pazarlama, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama stratejileri kullanarak hedef kitleleriyle etkileşime geçmektir.
+                                        <i class="fa-regular fa-file-lines float-start p-1"></i>Dijital pazarlama, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama stratejileri kullanarak hedef kitleleriyle etkileşime geçmek ve sonuçta satışları artırmak için kullanılan bir yöntemdir.
                                     </button>
                                     <!-- Modal -->
 
@@ -173,9 +192,7 @@
                                                         aria-label="Close">
                                                     </button>
                                                 </div>
-                                                <div class="modal-body" style="background-color: rgba(95,100,148); color: rgb(216 215 205);">
-                                                   
-Dijital pazarlama, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama stratejileri kullanarak hedef kitleleriyle etkileşime geçmek ve sonuçta satışları artırmak için kullanılan bir yöntemdir
+                                                <div class="modal-body" style="background-color: rgba(95,100,148); color: rgb(216 215 205);">Dijital pazarlama, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama stratejileri kullanarak hedef kitleleriyle etkileşime geçmek ve sonuçta satışları artırmak için kullanılan bir yöntemdir.
                                                 </div>
                                             </div>
                                         </div>
@@ -185,7 +202,7 @@ Dijital pazarlama, işletmelerin ürün veya hizmetlerini dijital platformlarda 
                             </div>
                         </div>
 
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0 mt-3" style="margin-left:4%">
+                        <div class="col-md-4 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 mt-3">
                             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                                 <img src="assets/img/AboutUs/activeDigital.png" class="w-100" alt="">
                                 <!-- <h4 class="title"><a href="">WEB DESIGN AND DEVELOPMENT</a></h4> -->
@@ -193,12 +210,9 @@ Dijital pazarlama, işletmelerin ürün veya hizmetlerini dijital platformlarda 
                                 <p class="description">
 
                                     <!-- Button trigger modal -->
-                                    <button type="button" class="btn" style="width: 100%; color: rgb(216 215 205);" data-bs-toggle="modal"
+                                    <button type="button" class="btn" style="width: 100%; color: rgb(216 215 205); font-size:14pt;" data-bs-toggle="modal"
                                         data-bs-target="#staticBackdropp">
-                                        <i class="fa-regular fa-file-lines float-start p-1"></i>
-                                        
-Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğunu anlıyoruz.
-                    Şirketler müşterileri ile güçlü ilişkiler kurmak için.
+                                        <i class="fa-regular fa-file-lines float-start p-1"></i>Londra merkezli Dijitalle Başar (Digital2Achieve) Pazarlama ve Danışmanlık olarak şirketimiz, dil, coğrafya ve kültürler arası sınırsız reklam gücüne sahip çok dilli bir ekip ile size destek sağlamaktadır. 
                                     </button>
                                     <!-- Modal -->
 
@@ -214,14 +228,7 @@ Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğun
                                                     </button>
                                                 </div>
                                                 <div class="modal-body" style="background-color: rgba(95,100,148); color: rgb(216 215 205);">
-                                                   <b>Digital2Achieve</b> Pazarlama ve Danışmanlık, size yardımcı olmak için buradayız
-                        ister yerel bölgenizde ister dünya çapında olsun, markanızın değerini artırın. ekibimiz
-                        uzmanlar
-                        en son dijital pazarlama tekniklerini kullanacak ve özel stratejiler uygulayacaktır.
-                        marka
-                        her zamankinden daha fazla tanınabilir. Markanızın tüm potansiyelini ortaya çıkarmak için birlikte çalışalım
-                        Ve
-                        benzersiz başarıya ulaşın!
+                                                Londra merkezli Dijitalle Başar (Digital2Achieve) Pazarlama ve Danışmanlık olarak şirketimiz, dil, coğrafya ve kültürler arası sınırsız reklam gücüne sahip çok dilli bir ekip ile size destek sağlamaktadır. <b>İngilizce, Almanca, Arapça, İspanyolca ve Rusça gibi dillerde uzmanlaşmış ekibimiz,</b> uluslararası pazarlarda etkili bir şekilde iletişim kurmanızı sağlar. Çeşitli kültürlere ve coğrafyalara aşina olan ekip üyelerimiz, hedef kitlenizle bağlantı kurmanıza yardımcı olur ve pazarlama çabalarınızı hem lokal hem de global ölçekte sizin hedef kitle tavsiyelerinize göre genişletmenize imkan tanır.
                                                 </div>
                                             </div>
                                         </div>
@@ -231,8 +238,43 @@ Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğun
                             </div>
                         </div>
                     </div>
+                    </div>
                 </div>
             </div>
+        </section>--%>
+        <section>
+            <div class="row" style="margin-top: 10%; margin-left: 4%">
+                <div class="col-lg-8 col-md-4">
+                    <br />
+                    <b>Dijital pazarlama</b>, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama stratejileri kullanarak hedef kitleleriyle etkileşime geçmek ve sonuçta satışları artırmak için kullanılan bir yöntemdir.
+                </div>
+                <div class="col-lg-4 col-md-2">
+                    <img src="assets/img/AboutUs/broadAudience.png" class="w-75" />
+                </div>
+                <hr style="margin-top: 2%; color: white;" />
+                <br />
+                <br />
+                <div class="col-lg-4 col-md-2">
+                    <img src="assets/img/AboutUs/activeDigital.png" class="w-75" alt="">
+                </div>
+                <div class="col-lg-8 col-md-4">
+                    <br />
+                    Londra merkezli <b style="color: #EEFF41">Dijitalle Başar (Digital2Achieve)</b> Pazarlama ve Danışmanlık olarak şirketimiz, dil, coğrafya ve kültürler arası sınırsız reklam gücüne sahip çok dilli bir ekip ile size destek sağlamaktadır. <b>İngilizce, Almanca, Arapça, İspanyolca ve Rusça gibi dillerde uzmanlaşmış ekibimiz</b>, uluslararası pazarlarda etkili bir şekilde iletişim kurmanızı sağlar.
+                </div>
+                <hr style="margin-top: 2%; color: white;" />
+                <br />
+                <br />
+                <div class="col-lg-8 col-md-4">
+                    Çeşitli kültürlere ve coğrafyalara aşina olan ekip üyelerimiz, hedef kitlenizle bağlantı kurmanıza yardımcı olur ve pazarlama çabalarınızı hem lokal hem de global ölçekte sizin hedef kitle tavsiyelerinize göre genişletmenize imkan tanır. Çeşitli kültürlere ve coğrafyalara aşina olan ekip üyelerimiz, hedef kitlenizle bağlantı kurmanıza yardımcı olur ve pazarlama çabalarınızı hem lokal hem de global ölçekte sizin hedef kitle tavsiyelerinize göre genişletmenize imkan tanır.
+                </div>
+                <div class="col-lg-4 col-md-2">
+                    <img src="assets/img/AboutUs/wider-reach.gif" class="w-75" />
+                </div>
+            </div>
+            <br />
+            <br />
+            <br />
+            <br />
         </section>
         <!-- End About Section -->
 
@@ -240,7 +282,7 @@ Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğun
         <section id="cta" class="cta quote-text-color">
             <div class="container" data-aos="zoom-in">
                 <div class="text-center">
-                    <h3 style="color: #EEFF41 ;">Zor zamanlarda pazarlama bir lüks değil, bağlantı kurmak için bir
+                    <h3 style="color: #EEFF41;">Zor zamanlarda pazarlama bir lüks değil, bağlantı kurmak için bir
             gerekliliktir
             İzleyicilerle etkileşime geçin ve markaya güven ve sadakat oluşturun.
                         <br />
@@ -377,10 +419,9 @@ Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğun
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h3 style="color: #EEFF41 ">İçeriği ve hikayesi olan iyi organize edilmiş bir web sitesi, binlerce kişiyi dönüştürebilir.
-            tanımadığınız insanları markanıza sadık bir müşteri tabanına dönüştürün
+                    <h3 style="color: #EEFF41">İcerik ve hikayesiyle iyi düzenlenmis bir web sitesi hiç tanımadıgınız binlerce insanı sizin markaniza sadakatle bağlı müşteri kitlesine dönüştürebilir.
                         <br />
-                        <h5>-Erdogan Tabur </h5>
+                        <h5>-Erdoğan Tabur </h5>
                     </h3>
                 </div>
 
@@ -403,13 +444,12 @@ Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğun
                             <div class="testimonial-item">
                                 <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
                                     <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    Zor zamanlarda pazarlama, lüks değil, kitleler ile bağlantı kurmak ve markaya olan güven ve sadakati
-                  oluşturmak için bir zorundalıktır.
+                                    Size müşteri getiren en iyi ürününüzün ğercektende özel olmasina özen gösterin yoksa, genel işinizde zarar ettirebilir.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/Rand Fishkin.jpg" class="testimonial-img" />
-                                <h3 class="text-secondary">Ran Fishkin</h3>
-                                <h4>Sanatçı</h4>
+                                <img src="assets/img/testimonials/warren-buffets.jpg" class="testimonial-img" />
+                                <h3 class="text-secondary">Warren Buffet</h3>
+                                <h4>İş Adamı, Yatırımcı</h4>
                             </div>
                         </div>
                         <!-- End testimonial item -->
@@ -422,9 +462,9 @@ Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğun
                   araçtır”
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" />
-                                <h3 class="text-secondary">Erdogan Tabur</h3>
-                                <h4>Tasarımcı</h4>
+                                <img src="assets/img/testimonials/Me-2_edited.jpg" class="testimonial-img" />
+                                <h3 class="text-secondary">Erdoğan Tabur</h3>
+                                <h4>Kurucu</h4>
                             </div>
                         </div>
                         <!-- End testimonial item -->
@@ -433,13 +473,12 @@ Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğun
                             <div class="testimonial-item">
                                 <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
                                     <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    "İyi tasarlanmış bir web sitesi, müşterilerinizi elde tutmanın ve onları müşteriye dönüştürmenin temel
-                  taşlarından biridir."
+                                    En iyi reklam sanki reklam değilmiş gibi olandır
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/Steve Jobs.jpg" class="testimonial-img" />
-                                <h3 class="text-secondary">Steve Jobs</h3>
-                                <h4>CEO</h4>
+                                <img src="assets/img/testimonials/Tom-Fisburne.jpeg" class="testimonial-img" />
+                                <h3 class="text-secondary">Tom Fisburne</h3>
+                                <h4>Girişimci</h4>
                             </div>
                         </div>
                         <!-- End testimonial item -->
@@ -448,58 +487,30 @@ Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğun
                             <div class="testimonial-item">
                                 <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);" class="pb-5">
                                     <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    "Dijital pazarlama, her şeyin müşteriyle başlayıp müşteriyle sona erdiği bir sanattır."
+                                    İyi bir pazarlama şirketi akıllı gösterir. Daha iyisi muşteriyi akıllı hissettirir.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/Shiv Singh.jpg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Shiv Singh</h3>
-                                <h4>Sanatçı</h4>
-                            </div>
-                        </div>
-                        <!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
-                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    Kriz dönemlerinde korkunuzun markalaşma stratejinizi etkilemesine izin vermeyin. Tam aksine
-                  reklamlarla müşterilerinizle olan organic bagınızı güçlendirmeye devam edin.
-                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
-                                </p>
-                                <img src="assets/img/testimonials/NeilPatel.jpeg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Neil Patel</h3>
+                                <img src="assets/img/testimonials/Joe-Chernov.jpg" class="testimonial-img" alt="">
+                                <h3 class="text-secondary">Joe Chernov</h3>
                                 <h4>Girişimci</h4>
                             </div>
                         </div>
                         <!-- End testimonial item -->
+
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
                                     <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    Kriz dönemlerinde korkunuzun markalaşma stratejinizi etkilemesine izin vermeyin. Tam aksine
-                  reklamlarla müşterilerinizle olan organic bagınızı güçlendirmeye devam edin.
+                                    Pazarlama artık bir pazarlama şekli ortaya cıkartma değil ürünü tanıtırken ürüne kattığın hikayedir.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
-                                <img src="assets/img/testimonials/Beth Comstock.jpg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Beth Comstock</h3>
-                                <h4>İş Adamı</h4>
+                                <img src="assets/img/testimonials/Seth-Godiin.jpg" class="testimonial-img" alt="">
+                                <h3 class="text-secondary">Seth Godin</h3>
+                                <h4>Yazar</h4>
                             </div>
+                        </div>
+                        <!-- End testimonial item -->
 
-                        </div>
-                        <!-- End testimonial item -->
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);" class=" pb-5">
-                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                    Dijital dünyada olmayan bir firma var olmayan bir firmadır.
-                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
-                                </p>
-                                <img src="assets/img/testimonials/BillGates.jpg" class="testimonial-img" alt="">
-                                <h3 class="text-secondary">Bill Gates </h3>
-                                <h4>İş Adamı</h4>
-                            </div>
-                        </div>
-                        <!-- End testimonial item -->
 
                     </div>
                     <div class="swiper-pagination"></div>
@@ -615,7 +626,7 @@ Günümüzün zorlu ekonomik ortamında, bunun bizim için çok önemli olduğun
                         <div class="info-box  mb-4">
                             <i class="bx bx-phone-call"></i>
                             <h3>Telefon</h3>
-                            <p>0 555 555 55 55</p>
+                            <p><a href="https://api.whatsapp.com/send?phone=905516428636&text=">+90 551 642 8636</a></p>
                         </div>
                     </div>
 

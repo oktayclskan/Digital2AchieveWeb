@@ -35,7 +35,7 @@
 
             <div class="logo">
                 <a href="../index.aspx">
-                    <img src="../assets/img/Logo/d2a-head-logo2.png" width="110"/></a>
+                    <img src="../assets/img/Logo/d2a-head-logo2.png" width="110" /></a>
             </div>
 
             <nav id="navbar" class="navbar">
@@ -76,10 +76,11 @@
 
         <section class="inner-page">
             <div class="container">
+                <h4 style="text-align: center; font-size: 30pt;">GOOGLE ADS</h4>
+                <hr />
                 <div class="row">
                     <div class="col-md-9 mt-5">
-                        <h4 style="text-align: center;">Google Ads</h4>
-                        <p class="text-white align-items-center mt-2">
+                        <p class="align-items-center mt-2">
                             Google Ads (önceden AdWords
               olarak bilinir), Google tarafından sunulan bir reklam platformudur. Bu platform aracılığıyla şirketler,
               ürün veya hizmetlerini Google arama sonuçlarında, web sitelerinde, mobil uygulamalarda ve YouTube gibi
@@ -93,12 +94,13 @@
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
                         <div class="col-md-12">
-                            <h4 style="text-align: center;">Google Ads’in kısaca önemi nedir?</h4>
-                            <p class="text-white align-items-center mt-2" style="opacity: .7;">
+                            <h3 style="text-align: center;">Google Ads’in kısaca önemi nedir?</h3>
+                            <br />
+                            <p class="align-items-center mt-2" style="opacity: .7;">
                                 Google Ads, reklam verenlere
                   kapsamlı hedefleme seçenekleri sunar.
                             </p>
-                            <ul class="text-white trul">
+                            <ul class="trul">
                                 <li class="mt-3">Coğrafi konum, dil, demografik özellikler göz önünde bulundurularak ilgi alanlarına
                     göre gerçek potansiyel müşteri kitlesine ulaşım sağlar.</li>
                                 <li class="mt-3">Reklam yayınlanmasına uygun olan cihaz türlerine göre reklamların hedef kitleye
@@ -116,8 +118,9 @@
                     <hr class="bg-secondary" style="border: 2px solid silver;" />
                     <div class="row mt-4">
                         <div class="col-md-9">
-                            <h4 style="text-align: center;">Biz sizin için ne yapıyoruz!</h3>
-                <p class="text-white align-items-center">
+                            <h3 style="text-align: center;">Biz sizin için ne yapıyoruz!</h3>
+                            <br />
+                <p class="align-items-center">
                     Dijitalle Başar <span
                         style="font-weight: 900; color: brown;">Digital2Achieve</span> ailesi olarak biz sizin için ürün veya
                   hizmetlerinizin gerçek hedef kitlesini doğru şekilde belirleyerek müşterilere tanıtıyoruz. Marka
@@ -126,8 +129,9 @@
                   şekilde yararlanabilmenizi sağlıyoruz.
                 </p>
                         </div>
-                        <div class="col-md-3 mt-1">
+                        <div class="col-md-3 mt-3">
                             <img src="../assets/img/gif/gad2a.gif" style="opacity: 0.7;" class="img-fluid" />
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -149,7 +153,7 @@
                             </a></li>
                         </ul>
                     </div>
-                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Servislerimiz</a>
                             </li>
@@ -157,7 +161,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Kullanım Şartları
                             </a></li>

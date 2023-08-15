@@ -76,9 +76,10 @@
 
         <section class="inner-page">
             <div class="container">
+                        <h4 style="text-align: center; font-size:30pt">BRANDING</h4>
+                        <hr />
                 <div class="row">
-                    <div class="col-md-9 mt-5">
-                        <h4 style="text-align: center;">BRANDING</h4>
+                    <div class="col-md-9 mt-4">
                         <p class="align-items-center">
                             Branding is the process
               that enables a company or firm to market itself in a unique and recognisable way, to create
@@ -88,7 +89,7 @@
                         </p>
                     </div>
                     <div class="col-md-3 mt-4">
-                        <img src="../assets/img/gif/b.gif" style="opacity: .7;" class="img-fluid w-50" alt="" />
+                        <img src="../assets/img/gif/b.gif" style="opacity: .7;" class="img-fluid w-25" alt="" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;"/>
                     <div class="row mt-3">
@@ -119,7 +120,7 @@
                             </p>
                         </div>
                         <div class="col-md-3 mt-4">
-                            <img src="../assets/img/gif/wdadd2a.gif" style="opacity: .7;" class="img-fluid" alt="" />
+                            <img src="../assets/img/gif/bd2a.gif" style="opacity: .7;" class="img-fluid" alt="" />
                         </div>
                     </div>
                 </div>

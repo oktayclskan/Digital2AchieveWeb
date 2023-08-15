@@ -76,9 +76,10 @@
 
         <section class="inner-page">
             <div class="container">
+                        <h4 style="text-align: center;">GOOGLE ADS (ADWORDS)</h4>
+                        <hr />
                 <div class="row">
                     <div class="col-md-9 mt-5">
-                        <h4 style="text-align: center;">GOOGLE ADS (ADWORDS)</h4>
                         <p class="align-items-center">
                             Google Ads, previously known as AdWords,
               is a powerful advertising platform provided by Google. It enables companies to advertise
@@ -88,12 +89,13 @@
                         </p>
                     </div>
                     <div class="col-md-3 mt-1">
-                        <img src="../assets/img/gif/ga.gif" style="opacity: .7; margin-top: 20%;" class="img-fluid" alt="" />
+                        <img src="../assets/img/gif/ga.gif" style="opacity: .7; margin-top: 12%;" class="img-fluid" alt="" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
                         <div class="col-md-12">
-                            <h4 style="text-align: center;">What is the importance of Google Ads?</h3>
+                            <h3 style="text-align: center;">What is the importance of Google Ads?</h3>
+                            <br />
                 <p class="align-items-center">
                     Google Ads offers
                   advertisers comprehensive targeting options.
@@ -115,7 +117,8 @@
                     <hr class="bg-secondary" style="border: 2px solid silver;" />
                     <div class="row mt-4">
                         <div class="col-md-9">
-                            <h4 style="text-align: center;">What do we do for you?</h3>
+                            <h3 style="text-align: center;">What do we do for you?</h3>
+                            <br />
                 <p class="align-items-center">
                     <span
                         style="font-weight: 900; color: brown;">Digital2Achieve</span>,Digital Marketing,
@@ -126,9 +129,10 @@
                   most out of your investment.
                 </p>
                         </div>
-                        <div class="col-md-3 mt-1">
+                        <div class="col-md-3 mt-3">
                             <img src="../assets/img/gif/gad2a.gif" style="opacity: .7;" class="img-fluid" alt="" />
                         </div>
+                    </div>
                     </div>
                 </div>
         </section>

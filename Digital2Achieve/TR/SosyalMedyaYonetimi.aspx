@@ -56,9 +56,10 @@
 
     <section class="inner-page">
       <div class="container">
+            <h4 style="text-align: center; font-size: 30pt;">SOSYAL MEDYA YÖNETİMİ</h4>
+              <hr />
         <div class="row">
           <div class="col-md-9 mt-4">
-            <h4 style="text-align: center;">Sosyal Medya Yönetimi</h4>
             <p class="align-items-center mt-2"">Sosyal medya yönetimi (Facebook,
               Instagram, Twitter, LinkedIn vb.), sosyal medya platformlarını kullanarak marka bilinirliğini artırma,
               ürün veya hizmetleri tanıtma, hedef kitleyle etkileşim kurma ve potansiyel müşterileri çekme amacıyla
@@ -69,7 +70,7 @@
               <br />
             </p>
           </div>
-          <div class="col-md-3 mt-4">
+          <div class="col-md-3 mt-1">
             <img src="../assets/img/gif/smm.gif" style="opacity: 0.7;" class="img-fluid"/>
           </div>
           <hr class="bg-secondary mt-4" style="border:2px solid silver;"height="100%" alt="">
@@ -108,6 +109,7 @@
             <div class="col-md-3 mt-4">
               <img src="../assets/img/gif/smmd2a.gif" style="opacity: 0.7;" class="img-fluid mb-2" />
             </div>
+          </div>
           </div>
         </div>
     </section>
@@ -166,10 +168,10 @@
     </div>
   </footer><!-- End Footer -->
 
-  <script defer class="back-to-top-whatsapp d-flex align-items-center justify-content-center"
-    src="https://widget.tochat.be/bundle.js?key=fa583eb7-7470-4852-8fae-78e5f3354f8d"></script>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"
-      style="font-size: 30pt;"></i></a>
+   <script defer class="back-to-top-whatsapp d-flex align-items-center justify-content-center"
+        src="https://widget.tochat.be/bundle.js?key=fa583eb7-7470-4852-8fae-78e5f3354f8d"></script>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"
+        style="font-size: 30pt;"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
