@@ -136,29 +136,32 @@
 
             </div>
         </section>
-        <!-- End Cta Section -->
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
+
+        <div class="row mt-2">
+            <div class="col-lg-2 col-md-2"></div>
+            <div class="col-lg-4 col-md-2">
+                <video src="../assets/Video/45.mp4" style="float: right;" height="200" muted autoplay loop></video>
+            </div>
+            <div class="col-lg-4 col-md-2">
+                <video src="../assets/Video/social.mp4" height="200" muted autoplay loop></video>
+            </div>
+            <div class="col-lg-2 col-md-2"></div>
+        </div>
+
         <div class="card p-2 mb-2 rounded-0" style="text-align: center; background: rgba(95, 100, 148);" data-aos="flip-right">
             <p>
-                <h1 style="color: #EEFF41; font-family:'Merriweather', serif;"><b>Are you looking to increase your brand's visibility and reach a larger audience?</b></h1>
-                <h5 style="color: rgb(216 215 205); font-family:'Merriweather', serif;">We understand that in today's tough economic climate, it's crucial for companies to establish strong relationships with their customers. Some businesses may find it difficult to thrive while others have the chance to grow and prosper.</h5>
-                <h5 style="color: rgb(216 215 205); font-family:'Merriweather', serif;">At <b><span style="color: #EEFF41;">Digital2Achieve</span></b> Marketing and Consultancy, we're here to help you increase your brand's value, whether it's in your local area or across the globe. Our team of experts will use the latest digital marketing techniques and implement specific strategies to make your brand more recognizable than ever before. Let's work together to unlock your brand's full potential and achieve unparalleled success!</h5>
+                <h1 style="color: #EEFF41; font-family: 'Merriweather', serif;"><b>Are you looking to increase your brand's visibility and reach a larger audience?</b></h1>
+                <h5 style="color: rgb(216 215 205); font-family: 'Merriweather', serif;">We understand that in today's tough economic climate, it's crucial for companies to establish strong relationships with their customers. Some businesses may find it difficult to thrive while others have the chance to grow and prosper.</h5>
+                <h5 style="color: rgb(216 215 205); font-family: 'Merriweather', serif;">At <b><span style="color: #EEFF41;">Digital2Achieve</span></b> Marketing and Consultancy, we're here to help you increase your brand's value, whether it's in your local area or across the globe. Our team of experts will use the latest digital marketing techniques and implement specific strategies to make your brand more recognizable than ever before. Let's work together to unlock your brand's full potential and achieve unparalleled success!</h5>
             </p>
         </div>
-        <br />
-        <br />
-        <br />
+        <hr />
         <!-- ======= About Section ======= -->
         <section>
-            <div class="row" style="margin-top: 10%; margin-left: 4%">
+            <div class="row" style="margin-top: 5%; margin-left: 4%">
                 <div class="col-lg-8 col-md-4">
                     <br />
-                    <b>Digital marketing is a method used by businesses to promote their products or services on digital platforms, interact with their target audience using marketing strategies and ultimately increase sales.</b>
+                    Digital marketing is a method used by businesses to promote their products or services on digital platforms, interact with their target audience using marketing strategies and ultimately increase sales.
                 </div>
                 <div class="col-lg-4 col-md-2">
                     <img src="assets/img/AboutUs/broadAudience.png" class="w-75" />
@@ -348,7 +351,7 @@
             <div class="container">
 
                 <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-                    <h2>DISCLAIMER OF SUCCESS</h2>
+                    <h2>QUOTES FOR SUCCESS:</h2>
                 </div>
 
                 <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">

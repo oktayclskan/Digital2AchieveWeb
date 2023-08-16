@@ -97,8 +97,8 @@
                   pazarlayan web siteleri oluşturuyoruz ve biliyoruz ki estetiğin ve mesajın doğru olduğu web siteleri
                   satışa giden yolda önemli bir rol oynar.</p>
             </div>
-            <div class="col-md-3 mt-3">
-              <video src="../assets/Video/22.mp4" class="w-75" muted autoplay loop></video>
+            <div class="col-md-3 mt-5">
+              <video src="../assets/Video/22.mp4" class="w-100" muted autoplay loop></video>
             </div>
             </div>
           </div>

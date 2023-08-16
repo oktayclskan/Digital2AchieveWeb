@@ -83,7 +83,7 @@
               services when compared to conventional marketing methods.</p>
           </div>
           <div class="col-md-3 mt-4">
-             <video src="../assets/Video/social.mp4" class="w-100" muted autoplay loop></video>
+             <video src="../assets/Video/social.mp4" height="200px" muted autoplay loop></video>
           </div>
           <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">

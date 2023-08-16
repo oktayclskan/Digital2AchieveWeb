@@ -135,27 +135,27 @@
             </div>
         </section>
 
-         <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
+        <div class="row mt-2">
+            <div class="col-lg-2 col-md-2"></div>
+            <div class="col-lg-4 col-md-2">
+                <video src="../assets/Video/45.mp4" style="float: right;" height="200" muted autoplay loop></video>
+            </div>
+            <div class="col-lg-4 col-md-2">
+                <video src="../assets/Video/social.mp4" height="200" muted autoplay loop></video>
+            </div>
+            <div class="col-lg-2 col-md-2"></div>
+        </div>
+
         <div class="card p-2 mb-2 rounded-0" style="text-align: center; background: rgba(95, 100, 148);" data-aos="flip-right">
             <p>
-                <h1 style="color: #EEFF41; font-family:'Merriweather', serif;"><b>Markanızın daha çok insanlar tarafından bilinir hale gelmesini ister misiniz?</b></h1>
-                <h5 style="color: rgb(216 215 205); font-family:'Merriweather', serif;">Bir firma olarak marka değerinizin oluşması ve  müşterilerinizle olan organik bağın korunması var olan ekonomik krizde çok daha da önem kazanmıştır. Bu gibi krizler bazi sirket ve firmalar icin bir kabusa dönüşürken bazıları için ise bu tür krizler yeni fırsatlara açılan bir kapıdır.. </h5>
-                <h5 style="color: rgb(216 215 205); font-family:'Merriweather', serif;"><b><span style="color: #EEFF41;">Dijitalle Başar (Digital2Achieve)</span></b> Pazarlama ve Danışmanlık olarak, birbirinden profesyonel takım arkadaşlarımızla sizin için gerekli olan bütün dijital pazarlama tekniklerini belirli stratejiler kullanarak marka değerinizin hem lokal hem de global ölçekte daha da bilinir hale gelmesi için sizinle çalışmaya hazırız. <b><span style="color: #EEFF41;">Dijitalle Başar (Digital2Achieve)</span></b> Pazarlama ve Danışmanlık olarak, gelin birlikte ne kadar lokal veya global bir marka olabileceğinizi beraber keşfedelim!</h5>
+                <h1 style="color: #EEFF41; font-family: 'Merriweather', serif;"><b>Markanızın daha çok insanlar tarafından bilinir hale gelmesini ister misiniz?</b></h1>
+                <h5 style="color: rgb(216 215 205); font-family: 'Merriweather', serif;">Bir firma olarak marka değerinizin oluşması ve  müşterilerinizle olan organik bağın korunması var olan ekonomik krizde çok daha da önem kazanmıştır. Bu gibi krizler bazi sirket ve firmalar icin bir kabusa dönüşürken bazıları için ise bu tür krizler yeni fırsatlara açılan bir kapıdır.. </h5>
+                <h5 style="color: rgb(216 215 205); font-family: 'Merriweather', serif;"><b><span style="color: #EEFF41;">Dijitalle Başar (Digital2Achieve)</span></b> Pazarlama ve Danışmanlık olarak, birbirinden profesyonel takım arkadaşlarımızla sizin için gerekli olan bütün dijital pazarlama tekniklerini belirli stratejiler kullanarak marka değerinizin hem lokal hem de global ölçekte daha da bilinir hale gelmesi için sizinle çalışmaya hazırız. <b><span style="color: #EEFF41;">Dijitalle Başar (Digital2Achieve)</span></b> Pazarlama ve Danışmanlık olarak, gelin birlikte ne kadar lokal veya global bir marka olabileceğinizi beraber keşfedelim!</h5>
             </p>
         </div>
-        
-        <br />
-        <br />
-        <br />
-
+        <hr />
         <!-- End Cta Section -->
         <!-- ======= About Section ======= -->
-
 
 
         <!-- End Cta Section -->
@@ -274,7 +274,7 @@
             </div>
         </section>--%>
         <section>
-            <div class="row" style="margin-top: 10%; margin-left: 4%">
+            <div class="row" style="margin-top: 5%; margin-left: 4%">
                 <div class="col-lg-8 col-md-4">
                     <br />
                     <b>Dijital pazarlama</b>, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama stratejileri kullanarak hedef kitleleriyle etkileşime geçmek ve sonuçta satışları artırmak için kullanılan bir yöntemdir.

@@ -115,7 +115,7 @@
                             </p>
                         </div>
                         <div class="col-md-3 mt-1">
-                            <img src="../assets/img/gif/seod2a.gif" class="img-fluid w-50" alt="" />
+                            <img src="../assets/img/gif/seod2a.gif" class="img-fluid w-75" alt="" />
                         </div>
                     </div>
                 </div>

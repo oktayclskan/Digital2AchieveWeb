@@ -100,7 +100,7 @@
                   daha fazla müşteri kazanmasına yardımcı olan içerikler üretiyoruz.
                             </p>
                         </div>
-                        <div class="col-md-3 mt-4">
+                        <div class="col-md-3 mt-5">
                             <video src="../assets/Video/10.mp4" class="w-100" muted autoplay loop></video>
                         </div>
                     </div>

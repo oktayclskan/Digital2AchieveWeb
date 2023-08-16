@@ -71,7 +71,7 @@
             </p>
           </div>
           <div class="col-md-3 mt-1">
-            <video src="../assets/Video/social.mp4" class="w-100" muted autoplay loop></video>
+            <video src="../assets/Video/social.mp4" height="200" muted autoplay loop></video>
           </div>
           <hr class="bg-secondary mt-4" style="border:2px solid silver;"height="100%" alt="">
           <div class="row mt-3">
@@ -103,7 +103,7 @@
                   yönetiyoruz.
                 </p>
             </div>
-            <div class="col-md-3 mt-4">
+            <div class="col-md-3 mt-5">
               <video src="../assets/Video/45.mp4" class="w-100" muted autoplay loop></video>
             </div>
           </div>

@@ -64,7 +64,7 @@
                 <h4 style="text-align: center; font-size: 30pt;">SEO (ARAMA MOTORU OPTIMIZASYONU)</h4>
                 <hr />
                 <div class="row">
-                    <div class="col-md-9 mt-2">
+                    <div class="col-md-9 mt-3">
                         <p class="align-items-center mt-2">
                             SEO, bir web sitesinin arama
               motorlarında organik olarak üst sıralarda görünmesini sağlayan bir dizi teknik ve stratejik uygulamalar
@@ -100,7 +100,7 @@
                             </p>
                         </div>
                         <div class="col-md-3 mt-1">
-                            <img src="../assets/img/gif/seod2a.gif" class="img-fluid w-50" alt="">
+                            <img src="../assets/img/gif/seod2a.gif" class="img-fluid w-75" alt="">
                         </div>
                     </div>
                 </div>

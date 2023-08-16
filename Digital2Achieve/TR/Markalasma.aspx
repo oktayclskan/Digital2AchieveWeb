@@ -72,8 +72,8 @@
               <br />
                         </p>
                     </div>
-                    <div class="col-md-3 mt-4">
-                        <img src="../assets/img/gif/b.gif" class="img-fluid w-25" />
+                    <div class="col-md-3 mt-2">
+                        <img src="../assets/img/gif/b.gif" class="img-fluid w-50" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
