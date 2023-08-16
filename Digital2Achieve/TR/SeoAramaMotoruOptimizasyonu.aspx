@@ -8,9 +8,9 @@
     <meta content="" name="description" />
     <meta content="" name="keywords" />
 
-    <!-- Favicons -->
-    <link href="assets/img/Logo/d2a-head-logo.png" rel="icon" />
-    <link href="assets/img/Logo/d2a-head-logo.png" rel="apple-touch-icon" />
+   <!-- Favicons -->
+    <link href="../assets/img/Logo/d2a-head-logo.png" rel="icon" />
+    <link href="../assets/img/Logo/d2a-head-logo.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
     <link
@@ -61,7 +61,7 @@
 
         <section class="inner-page">
             <div class="container">
-                <h4 style="text-align: center; font-size: 20pt;">SEO (ARAMA MOTORU OPTIMIZASYONU)</h4>
+                <h4 style="text-align: center; font-size: 30pt;">SEO (ARAMA MOTORU OPTIMIZASYONU)</h4>
                 <hr />
                 <div class="row">
                     <div class="col-md-9 mt-2">

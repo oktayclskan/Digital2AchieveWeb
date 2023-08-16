@@ -93,8 +93,12 @@
                     </div>
                 </div>
 
-               <div id="next" onclick="next()" style="color:white;">> </div>
-                <div id="prev" onclick="prev()" style="color:white;">< </div>
+                <div id="next" onclick="next()" style="color: #EEFF41; font-size: 50pt;">
+                    >
+                </div>
+                <div id="prev" onclick="prev()" style="color: #EEFF41; font-size: 50pt;">
+                    <
+                </div>
             </div>
 
         </div>
@@ -114,7 +118,7 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h2 style="color: #EEFF41 ;">If your business is not on the Internet then your business will be out
+                    <h2 style="color: #EEFF41;">If your business is not on the Internet then your business will be out
             of business
             <br />
                         <h5>-Bill Gates</h5>
@@ -125,103 +129,39 @@
         </section>
         <!-- End Cta Section -->
         <!-- ======= About Section ======= -->
-        <section id="about" class="services" style="margin-top: 10%;">
-            <div class="container">
-
-                <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-                    <h2 style="color: rgb(216 215 205);">About Us</h2>
-                    <div class="row mt-3 justify-content-center">
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="margin-left:4%">
-                            <div class="icon-box" data-aos="fade-up">
-                                <img src="assets/img/AboutUs/broadAudience.png" class="w-100" />
-                                <!-- <h4 class="title"><a href="">LEAD GENERATION ADS MARKETING</a></h4> -->
-                                <h3 class="description" style="color: rgb(216 215 205);">
-                                    <br />
-                                    <br />
-                                    Are you looking to increase your
-                  brand's
-                  visibility and reach a larger audience?
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0 mt-3" style="margin-left:4%">
-                            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-                                <img src="assets/img/AboutUs/wider-reach.gif" class="w-100" />
-                                <!-- <h4 class="title"><a href="">SOCIAL MEDIA MANAGEMENT</a></h4> -->
-                                <p class="description">
-                                    <!-- Button trigger modal -->
-                                    <button type="button" class="btn" style="width: 100%; color: rgb(216 215 205);" data-bs-toggle="modal"
-                                        data-bs-target="#staticBackdrop">
-                                        <i class="fa-regular fa-file-lines float-start p-1"></i>
-                                        We understand that in today's tough economic climate, it's crucial for
-                    companies to establish strong relationships with their customers.
-                                    </button>
-                                    <!-- Modal -->
-
-                                    <div class="modal fade mt-5 " id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false"
-                                        tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-                                        <div class="modal-dialog">
-                                            <div class="modal-content" style="margin-top: 50%;">
-                                                <div class="modal-header" style="background-color: rgba(30,47,66);">
-                                                    <h5 style="font-weight: 900; color: rgba(225,214,95);" class="modal-title"
-                                                        id="staticBackdropLabel">Digital2Achieve</h5>
-                                                    <button type="button" class="btn-close" style="background-color: white" data-bs-dismiss="modal"
-                                                        aria-label="Close">
-                                                    </button>
-                                                </div>
-                                                <div class="modal-body" style="background-color: rgba(95,100,148); color: rgb(216 215 205);">
-                                                    We understand that in today's tough economic climate, it's crucial for
-                        companies to establish strong relationships with their customers. Some businesses may find it
-                        difficult to thrive while others have the chance to grow and prosper.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0 mt-3" style="margin-left:4%">
-                            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-                                <img src="assets/img/AboutUs/activeDigital.png" class="w-100" alt="">
-                                <!-- <h4 class="title"><a href="">WEB DESIGN AND DEVELOPMENT</a></h4> -->
-
-                                <p class="description">
-
-                                    <!-- Button trigger modal -->
-                                    <button type="button" class="btn" style="width: 100%; color: rgb(216 215 205);" data-bs-toggle="modal"
-                                        data-bs-target="#staticBackdropp">
-                                        <i class="fa-regular fa-file-lines float-start p-1"></i>
-                                       Digital is the promotion of products or businesses of marketing businesses on digital platforms, circulating with their target audience by reducing marketing.
-                                    </button>
-                                    <!-- Modal -->
-
-                                    <div class="modal fade mt-5 " id="staticBackdropp" data-bs-backdrop="static" data-bs-keyboard="false"
-                                        tabindex="-1" aria-labelledby="staticBackdropLabell" aria-hidden="true">
-                                        <div class="modal-dialog">
-                                            <div class="modal-content" style="margin-top: 45%;">
-                                                <div class="modal-header" style="background-color: rgba(30,47,66);">
-                                                    <h5 style="font-weight: 900; color: rgba(225,214,95);" class="modal-title"
-                                                        id="staticBackdropLabell">Digital2Achieve</h5>
-                                                    <button type="button" class="btn-close" style="background-color: white" data-bs-dismiss="modal"
-                                                        aria-label="Close">
-                                                    </button>
-                                                </div>
-                                                <div class="modal-body" style="background-color: rgba(95,100,148); color: rgb(216 215 205);">
-                                                    At <b>Digital2Achieve</b> Marketing and Consultancy, we're here to help you
-                       Digital marketing is a method used by businesses to promote their products or services on digital platforms, interact with their target audience using marketing strategies and ultimately increase sales.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+        <section>
+            <div class="row" style="margin-top: 10%; margin-left: 4%">
+                <div class="col-lg-8 col-md-4">
+                    <br />
+                  <b>Digital marketing is a method used by businesses to promote their products or services on digital platforms, interact with their target audience using marketing strategies and ultimately increase sales.</b>
+                </div>
+                <div class="col-lg-4 col-md-2">
+                    <img src="assets/img/AboutUs/broadAudience.png" class="w-75" />
+                </div>
+                <hr style="margin-top: 2%; color: white;" />
+                <br />
+                <br />
+                <div class="col-lg-4 col-md-2">
+                    <img src="assets/img/AboutUs/activeDigital.png" class="w-75" alt="">
+                </div>
+                <div class="col-lg-8 col-md-4">
+                    <br />
+                    Our London-based company, Digital2Achieve Marketing and Consultancy provides multilingual support with unlimited advertising power across languages, geographies, and cultures. Our team specializes in <b> English, German, Arabic, Spanish, and Russian,</b> enabling effective communication in international markets. 
+                </div>
+                <hr style="margin-top: 2%; color: white;" />
+                <br />
+                <br />
+                <div class="col-lg-8 col-md-4 mt-4">
+                    Our knowledgeable team members understand various cultures and geographies, assisting in connecting with your target audience and expanding marketing efforts according to your recommendations, both locally and globally.
+                </div>
+                <div class="col-lg-4 col-md-2">
+                    <img src="assets/img/AboutUs/wider-reach.gif" class="w-75" />
                 </div>
             </div>
+            <br />
+            <br />
+            <br />
+            <br />
         </section>
         <!-- End About Section -->
 
@@ -230,7 +170,7 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h2 style="color: #EEFF41 ;">Marketing in tough times is not a luxury, but a necessity to connect
+                    <h2 style="color: #EEFF41;">Marketing in tough times is not a luxury, but a necessity to connect
             with audiences and build trust and loyalty to the brand.
             <br />
                         <h5>-Ran Fishkin</h5>
@@ -365,7 +305,7 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h2 style="color: #EEFF41 ;">A well-organized website with content and story can turn thousands of
+                    <h2 style="color: #EEFF41;">A well-organized website with content and story can turn thousands of
             people you don't know into a customer base that is loyal to your brand.
                         <br />
                         <h5>-Erdoğan Tabur </h5>
@@ -393,7 +333,7 @@
                             <div class="testimonial-item">
                                 <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
                                     <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                Your premium brand had better be delivering something special, or it's not going to get the business.
+                                    Your premium brand had better be delivering something special, or it's not going to get the business.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
                                 <img src="assets/img/testimonials/warren-buffets.jpg" class="testimonial-img" />
@@ -423,7 +363,7 @@
                             <div class="testimonial-item">
                                 <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
                                     <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                 The best marketing doesn't feel like marketing.
+                                    The best marketing doesn't feel like marketing.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
                                 <img src="assets/img/testimonials/Tom-Fisburne.jpeg" class="testimonial-img" />
@@ -437,7 +377,7 @@
                             <div class="testimonial-item">
                                 <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);" class="pb-5">
                                     <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                   Good marketing makes the company look smart. Great marketing makes the customer feel smart.
+                                    Good marketing makes the company look smart. Great marketing makes the customer feel smart.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
                                 <img src="assets/img/testimonials/Joe-Chernov.jpg" class="testimonial-img" alt="">
@@ -451,7 +391,7 @@
                             <div class="testimonial-item">
                                 <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
                                     <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
-                                Marketing is no longer about the stuff that you make, but about the stories you tell.
+                                    Marketing is no longer about the stuff that you make, but about the stories you tell.
                   <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
                                 <img src="assets/img/testimonials/Seth-Godiin.jpg" class="testimonial-img" alt="">
@@ -460,7 +400,7 @@
                             </div>
                         </div>
                         <!-- End testimonial item -->
-                       
+
 
                     </div>
                     <div class="swiper-pagination"></div>
@@ -562,7 +502,7 @@
                         <div class="info-box  mb-4">
                             <i class="bx bx-envelope"></i>
                             <h3>Email Us</h3>
-                            <p>contact@example.com</p>
+                            <p><a href="mailto:info@godigital2achieve.com">info@godigital2achieve.com</a></p>
                         </div>
                     </div>
 
@@ -570,7 +510,7 @@
                         <div class="info-box  mb-4">
                             <i class="bx bx-phone-call"></i>
                             <h3>Call Us</h3>
-                            <p>+1 5589 55488 55</p>
+                            <p><a href="https://api.whatsapp.com/send?phone=905516428636&text=">+90 551 642 8636</a></p>
                         </div>
                     </div>
 
@@ -643,7 +583,7 @@
 
                         </ul>
                     </div>
-                    <div class="col-sm-3 footer-links container" style=" margin-top: 38px">
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Terms of service</a></li>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Privacy policy</a></li>

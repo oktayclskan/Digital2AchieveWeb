@@ -9,8 +9,8 @@
   <meta content="" name="keywords"/>
 
   <!-- Favicons -->
-  <link href="assets/img/Logo/d2a-head-logo.png" rel="icon"/>
-  <link href="assets/img/Logo/d2a-head-logo.png" rel="apple-touch-icon"/>
+    <link href="../assets/img/Logo/d2a-head-logo.png" rel="icon" />
+    <link href="../assets/img/Logo/d2a-head-logo.png" rel="apple-touch-icon" />
 
   <!-- Google Fonts -->
   <link
@@ -71,7 +71,7 @@
 
     <section class="inner-page">
       <div class="container">
-            <h1 style="text-align: center;">SOCIAL MEDIA MANAGEMENT</h1>
+            <h1 style="text-align: center; font-size:30pt;">SOCIAL MEDIA MANAGEMENT</h1>
               <hr />
         <div class="row">
           <div class="col-md-9 mt-4">
