@@ -86,7 +86,7 @@
                         </p>
                     </div>
                     <div class="col-md-3 mt-1">
-                        <img src="../assets/img/gif/SEO.gif" class="img-fluid w-50" alt="" />
+                        <video src="../assets/Video/31.mp4" class="w-50" muted autoplay loop></video>
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;">
                     <div class="row mt-3">

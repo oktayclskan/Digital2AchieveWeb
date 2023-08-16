@@ -83,7 +83,7 @@
               services when compared to conventional marketing methods.</p>
           </div>
           <div class="col-md-3 mt-4">
-            <img src="../assets/img/gif/smm.gif" class="img-fluid" alt=""/>
+             <video src="../assets/Video/social.mp4" class="w-100" muted autoplay loop></video>
           </div>
           <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">
@@ -108,7 +108,7 @@
                   content and manage your social media campaigns.</p>
             </div>
             <div class="col-md-3 mt-4">
-              <img src="../assets/img/gif/smmd2a.gif" class="img-fluid" alt=""/>
+              <video src="../assets/Video/45.mp4" class="w-100" muted autoplay loop></video>
             </div>
           </div>
           </div>

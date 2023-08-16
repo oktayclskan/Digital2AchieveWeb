@@ -88,7 +88,7 @@
                         </p>
                     </div>
                     <div class="col-md-3 mt-4">
-                        <img src="../assets/img/gif/wdad.gif" class="img-fluid w-100" />
+                        <video src="../assets/Video/44.mp4" class="w-50" muted autoplay loop></video>
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
@@ -122,7 +122,7 @@
                             </p>
                         </div>
                         <div class="col-md-3" style="margin-top: 6%">
-                            <img src="../assets/img/gif/wdadd2a.gif" class="img-fluid w-100" />
+                            <video src="../assets/Video/22.mp4" class="w-75" muted autoplay loop></video>
                         </div>
                     </div>
                 </div>

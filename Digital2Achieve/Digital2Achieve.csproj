@@ -169,10 +169,17 @@
     <Content Include="assets\vendor\purecounter\purecounter_vanilla.js" />
     <Content Include="assets\vendor\swiper\swiper-bundle.min.css" />
     <Content Include="assets\vendor\swiper\swiper-bundle.min.js" />
+    <Content Include="assets\Video\10.mp4" />
+    <Content Include="assets\Video\22.mp4" />
+    <Content Include="assets\Video\31.mp4" />
+    <Content Include="assets\Video\44.mp4" />
+    <Content Include="assets\Video\45.mp4" />
+    <Content Include="assets\Video\55.mp4" />
     <Content Include="assets\Video\backvideo.mp4" />
     <Content Include="assets\Video\plexus_-_27669 %281080p%29.mp4" />
     <Content Include="assets\Video\slidev1.mp4" />
     <Content Include="assets\Video\slidev3 %28online-video-cutter.com%29.mp4" />
+    <Content Include="assets\Video\social.mp4" />
     <Content Include="EN\Branding.aspx" />
     <Content Include="EN\DataAnalysis.aspx" />
     <Content Include="EN\GoogleAdvertisements.aspx" />
