@@ -137,6 +137,22 @@
             </div>
         </section>
         <!-- End Cta Section -->
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <div class="card p-2 mb-2 rounded-0" style="text-align: center; background: rgba(95, 100, 148);" data-aos="flip-right">
+            <p>
+                <h1 style="color: #EEFF41; font-family:'Merriweather', serif;"><b>Are you looking to increase your brand's visibility and reach a larger audience?</b></h1>
+                <h5 style="color: rgb(216 215 205); font-family:'Merriweather', serif;">We understand that in today's tough economic climate, it's crucial for companies to establish strong relationships with their customers. Some businesses may find it difficult to thrive while others have the chance to grow and prosper.</h5>
+                <h5 style="color: rgb(216 215 205); font-family:'Merriweather', serif;">At <b><span style="color: #EEFF41;">Digital2Achieve</span></b> Marketing and Consultancy, we're here to help you increase your brand's value, whether it's in your local area or across the globe. Our team of experts will use the latest digital marketing techniques and implement specific strategies to make your brand more recognizable than ever before. Let's work together to unlock your brand's full potential and achieve unparalleled success!</h5>
+            </p>
+        </div>
+        <br />
+        <br />
+        <br />
         <!-- ======= About Section ======= -->
         <section>
             <div class="row" style="margin-top: 10%; margin-left: 4%">
