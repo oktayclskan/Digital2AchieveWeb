@@ -80,9 +80,11 @@
     <Content Include="assets\img\gif\wdadd2a.gif" />
     <Content Include="assets\img\Language\turkey.png" />
     <Content Include="assets\img\Language\united-kingdom.png" />
+    <Content Include="assets\img\Logo\bag.png" />
     <Content Include="assets\img\Logo\d2a-head-logo.png" />
     <Content Include="assets\img\Logo\d2a-head-logo2.png" />
     <Content Include="assets\img\Logo\logo.jpg" />
+    <Content Include="assets\img\Logo\rocket.png" />
     <Content Include="assets\img\Logo\SOSYAL MEDYA YÖNETİMİ.jpg" />
     <Content Include="assets\img\map-dotted.png" />
     <Content Include="assets\img\move.svg" />

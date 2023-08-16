@@ -68,7 +68,9 @@
                     <div class="slide">
                         <div class="content">
                             <img src="assets/img/worldwalll.jpg" class="opacity-50 w-100" alt="" />
-                            <h1 class="position-absolute">MARKADA DEĞER, BAŞARIDA SÜREKLİLİK BURADA BAŞLAR </h1>
+                            <h1 class="position-absolute">MARKADA DEĞER, BAŞARIDA SÜREKLİLİK<br />
+                                <br />
+                                BURADA BAŞLAR </h1>
                         </div>
                         <video src="assets/Video/slidev1.mp4" muted autoplay loop></video>
                     </div>
@@ -78,7 +80,9 @@
                     <div class="slide">
                         <div class="content">
                             <img src="assets/img/worldwall3.jpg" class="opacity-50 w-100" />
-                            <h1 class="position-absolute">MARKA İLE MÜŞTERİ ARASINDAKİ BAĞLANTININ ADRESİ </h1>
+                            <h1 class="position-absolute">MARKA İLE MÜŞTERİ ARASINDAKİ<br />
+                                <br />
+                                BAĞLANTININ ADRESİ </h1>
                         </div>
                         <video src="assets/Video/slidev3 (online-video-cutter.com).mp4" muted autoplay loop></video>
                     </div>
@@ -87,16 +91,20 @@
                     <div class="slide">
                         <div class="content">
                             <img src="assets/img/walbacki.jpg" class="opacity-50 w-100" alt="" />
-                            <h1 class="position-absolute">DEĞERE DEĞER KATMAK İÇİN YARDIMCI OLUYORUZ</h1>
+                            <h1 class="position-absolute">DEĞERE DEĞER KATMAK İÇİN YARDIMCI<br />
+                                <br />
+                                OLUYORUZ</h1>
                         </div>
                         <video src="assets/Video/plexus_-_27669 (1080p).mp4" muted autoplay loop></video>
                     </div>
                 </div>
 
-                <div id="next" onclick="next()" style="        color: #EEFF41;
-        font-size: 50pt;">> </div>
-                <div id="prev" onclick="prev()" style="        color: #EEFF41;
-        font-size: 50pt;">< </div>
+                <div id="next" onclick="next()" style="color: #EEFF41; font-size: 50pt;">
+                    >
+                </div>
+                <div id="prev" onclick="prev()" style="color: #EEFF41; font-size: 50pt;">
+                    <
+                </div>
             </div>
 
         </div>
@@ -109,14 +117,16 @@
       <a href="#about" class="btn-get-started scrollto"><i class="bx bx-chevrons-down"></i></a>
     </div>
   </section>End Hero -->
-
+    <br />
+    <br />
+    <br />
     <main id="main">
         <!-- ======= Cta Section ======= -->
         <section id="cta" class="cta quote-text-color">
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h3 style="        color: #EEFF41;">Dijtal dünyada olmayan bir firma var olmayan bir firmadır.
+                    <h3 style="color: #EEFF41;">Dijtal dünyada olmayan bir firma var olmayan bir firmadır.
             <br />
                         <h5>-Bill Gates</h5>
                     </h3>
@@ -245,8 +255,7 @@
             </div>
         </section>--%>
         <section>
-            <div class="row" style="        margin-top: 10%;
-        margin-left: 4%">
+            <div class="row" style="margin-top: 10%; margin-left: 4%">
                 <div class="col-lg-8 col-md-4">
                     <br />
                     <b>Dijital pazarlama</b>, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama stratejileri kullanarak hedef kitleleriyle etkileşime geçmek ve sonuçta satışları artırmak için kullanılan bir yöntemdir.
@@ -254,8 +263,7 @@
                 <div class="col-lg-4 col-md-2">
                     <img src="assets/img/AboutUs/broadAudience.png" class="w-75" />
                 </div>
-                <hr style="        margin-top: 2%;
-        color: white;" />
+                <hr style="margin-top: 2%; color: white;" />
                 <br />
                 <br />
                 <div class="col-lg-4 col-md-2">
@@ -263,10 +271,9 @@
                 </div>
                 <div class="col-lg-8 col-md-4">
                     <br />
-                    Londra merkezli <b style="        color: #EEFF41">Dijitalle Başar (Digital2Achieve)</b> Pazarlama ve Danışmanlık olarak şirketimiz, dil, coğrafya ve kültürler arası sınırsız reklam gücüne sahip çok dilli bir ekip ile size destek sağlamaktadır. <b>İngilizce, Almanca, Arapça, İspanyolca ve Rusça gibi dillerde uzmanlaşmış ekibimiz</b>, uluslararası pazarlarda etkili bir şekilde iletişim kurmanızı sağlar.
+                    Londra merkezli <b style="color: #EEFF41">Dijitalle Başar (Digital2Achieve)</b> Pazarlama ve Danışmanlık olarak şirketimiz, dil, coğrafya ve kültürler arası sınırsız reklam gücüne sahip çok dilli bir ekip ile size destek sağlamaktadır. <b>İngilizce, Almanca, Arapça, İspanyolca ve Rusça gibi dillerde uzmanlaşmış ekibimiz</b>, uluslararası pazarlarda etkili bir şekilde iletişim kurmanızı sağlar.
                 </div>
-                <hr style="        margin-top: 2%;
-        color: white;" />
+                <hr style="margin-top: 2%; color: white;" />
                 <br />
                 <br />
                 <div class="col-lg-8 col-md-4 mt-4">
@@ -287,9 +294,7 @@
         <section id="cta" class="cta quote-text-color">
             <div class="container" data-aos="zoom-in">
                 <div class="text-center">
-                    <h3 style="        color: #EEFF41;">Zor zamanlarda pazarlama bir lüks değil, bağlantı kurmak için bir
-            gerekliliktir
-            İzleyicilerle etkileşime geçin ve markaya güven ve sadakat oluşturun.
+                    <h3 style="color: #EEFF41;">Zor zamanlarda pazarlama, lüks değil, kitleler ile bağlantı kurmak ve markaya olan güven ve sadakati oluşturmak için bir zorundalıktır.
                         <br />
                         <h5>-Ran Fishkin</h5>
                     </h3>
@@ -301,68 +306,68 @@
 
         <!-- ======= Services Section ======= -->
 
-        <section id="services" class="services" style="        margin-top: 10%;">
+        <section id="services" class="services" style="margin-top: 10%;">
             <div class="container">
 
                 <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-                    <h2 style="        color: rgb(216 215 205);">Services</h2>
+                    <h2 style="color: rgb(216 215 205);">Services</h2>
 
                     <div class="row mt-3 justify-content-center">
-                        <a href="TR/PotansiyelMusteriolusturma.aspx" style="        width: 100%;">
-                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="        height: 100%;">
+                        <a href="TR/PotansiyelMusteriolusturma.aspx" style="width: 100%;">
+                            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="height: 100%;">
                                 <div class="icon-box" data-aos="fade-up">
-                                    <div class="icon"><i class='bx bxs-user-plus' style="        color: rgb(92, 89, 225);"></i></div>
+                                    <div class="icon"><i class='bx bxs-user-plus' style="color: rgb(92, 89, 225);"></i></div>
                                     <h4 class="title">POSTANSİYEL MÜŞTERİ OLUŞTURMA VE PAZARLAMA</h4>
                                 </div>
                         </a>
                     </div>
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-                        <a href="TR/SosyalMedyaYonetimi.aspx" style="        width: 100%;">
-                            <div class="icon-box" data-aos="fade-up" data-aos-delay="100" style="        height: 100%;">
-                                <div class="icon"><i class='bx bxl-meta' style="        color: rgb(92, 89, 225);"></i></div>
+                        <a href="TR/SosyalMedyaYonetimi.aspx" style="width: 100%;">
+                            <div class="icon-box" data-aos="fade-up" data-aos-delay="100" style="height: 100%;">
+                                <div class="icon"><i class='bx bxl-meta' style="color: rgb(92, 89, 225);"></i></div>
                                 <h4 class="title">SOSYAL MEDYA YÖNETİMİ</h4>
                             </div>
                         </a>
                     </div>
 
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-                        <a href="TR/WebTasarimVeGelistirme.aspx" style="        width: 100%;">
-                            <div class="icon-box" data-aos="fade-up" data-aos-delay="200" style="        height: 100%;">
-                                <div class="icon"><i class='bx bx-devices' style="        color: rgb(92, 89, 225);"></i></div>
+                        <a href="TR/WebTasarimVeGelistirme.aspx" style="width: 100%;">
+                            <div class="icon-box" data-aos="fade-up" data-aos-delay="200" style="height: 100%;">
+                                <div class="icon"><i class='bx bx-devices' style="color: rgb(92, 89, 225);"></i></div>
                                 <h4 class="title">WEB TASARIM VE GELIŞTIRME</h4>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div class="row mt-4 justify-content-center">
-                    <a href="TR/SeoAramaMotoruOptimizasyonu.aspx" style="        width: 100%;">
-                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="        height: 100%;">
+                    <a href="TR/SeoAramaMotoruOptimizasyonu.aspx" style="width: 100%;">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="height: 100%;">
                             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-                                <div class="icon"><i class='bx bx-file-find' style="        color: rgb(92, 89, 225);"></i></div>
+                                <div class="icon"><i class='bx bx-file-find' style="color: rgb(92, 89, 225);"></i></div>
                                 <h4 class="title">SEO(ARAMA MOTORU VE OPTIMIZASYON))</h4>
                             </div>
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-                    <a href="TR/GoogleAdsPazarlama.aspx" style="        width: 100%;">
-                        <div class="icon-box" data-aos="fade-up" data-aos-delay="300" style="        height: 100%;">
-                            <div class="icon"><i class='bx bxl-google' style="        color: rgb(92, 89, 225);"></i></div>
+                    <a href="TR/GoogleAdsPazarlama.aspx" style="width: 100%;">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="300" style="height: 100%;">
+                            <div class="icon"><i class='bx bxl-google' style="color: rgb(92, 89, 225);"></i></div>
                             <h4 class="title">GOOGLE ADS (PAZARLAMA)</h4>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-                    <a href="TR/Markalasma.aspx" style="        width: 100%;">
-                        <div class="icon-box" data-aos="fade-up" data-aos-delay="300" style="        height: 100%;">
-                            <div class="icon"><i class='bx bxl-netlify' style="        color: rgb(92, 89, 225);"></i></div>
+                    <a href="TR/Markalasma.aspx" style="width: 100%;">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="300" style="height: 100%;">
+                            <div class="icon"><i class='bx bxl-netlify' style="color: rgb(92, 89, 225);"></i></div>
                             <h4 class="title">MARKALAŞMA</h4>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-                    <a href="TR/DataAnalizi.aspx" style="        width: 100%;">
-                        <div class="icon-box" data-aos="fade-up" data-aos-delay="300" style="        height: 100%;">
-                            <div class="icon"><i class='bx bxs-data' style="        color: rgb(92, 89, 225);"></i></div>
+                    <a href="TR/DataAnalizi.aspx" style="width: 100%;">
+                        <div class="icon-box" data-aos="fade-up" data-aos-delay="300" style="height: 100%;">
+                            <div class="icon"><i class='bx bxs-data' style="color: rgb(92, 89, 225);"></i></div>
                             <h4 class="title">VERİ ANALİZİ VE RAPORLAMA</h4>
                         </div>
                     </a>
@@ -424,7 +429,7 @@
             <div class="container" data-aos="zoom-in">
 
                 <div class="text-center">
-                    <h3 style="        color: #EEFF41">İcerik ve hikayesiyle iyi düzenlenmis bir web sitesi hiç tanımadıgınız binlerce insanı sizin markaniza sadakatle bağlı müşteri kitlesine dönüştürebilir.
+                    <h3 style="color: #EEFF41">İcerik ve hikayesiyle iyi düzenlenmis bir web sitesi hiç tanımadıgınız binlerce insanı sizin markaniza sadakatle bağlı müşteri kitlesine dönüştürebilir.
                         <br />
                         <h5>-Erdoğan Tabur </h5>
                     </h3>
@@ -435,7 +440,7 @@
         <!-- End Cta Section -->
 
         <!-- ======= Testimonials Section ======= -->
-        <section id="testimonials" class="testimonials section-bg" style="        margin-top: 10%;">
+        <section id="testimonials" class="testimonials section-bg" style="margin-top: 10%;">
             <div class="container">
 
                 <div class="section-title" data-aos="fade-in" data-aos-delay="100">
@@ -447,12 +452,10 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <p style="        min-height: 250px;
-        background: rgba(95,100,148);
-        color: rgba(225, 214, 95);">
-                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="        color: rgba(225, 214, 95);"></i>
+                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
+                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
                                     Size müşteri getiren en iyi ürününüzün ğercektende özel olmasina özen gösterin yoksa, genel işinizde zarar ettirebilir.
-                  <i class="bx bxs-quote-alt-right quote-icon-right" style="        color: rgba(225, 214, 95);"></i>
+                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
                                 <img src="assets/img/testimonials/warren-buffets.jpg" class="testimonial-img" />
                                 <h3 class="text-secondary">Warren Buffet</h3>
@@ -463,13 +466,11 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <p style="        min-height: 250px;
-        background: rgba(95,100,148);
-        color: rgba(225, 214, 95);">
-                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="        color: rgba(225, 214, 95);"></i>
+                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
+                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
                                     “Günümüz dünyasında dijital pazarlama, firmalar için ülkeler arası sınırları yok sayan çok önemli bir
                   araçtır”
-                  <i class="bx bxs-quote-alt-right quote-icon-right" style="        color: rgba(225, 214, 95);"></i>
+                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
                                 <img src="assets/img/testimonials/Me-2_edited.jpg" class="testimonial-img" />
                                 <h3 class="text-secondary">Erdoğan Tabur</h3>
@@ -480,12 +481,10 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <p style="        min-height: 250px;
-        background: rgba(95,100,148);
-        color: rgba(225, 214, 95);">
-                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="        color: rgba(225, 214, 95);"></i>
+                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
+                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
                                     En iyi reklam sanki reklam değilmiş gibi olandır
-                  <i class="bx bxs-quote-alt-right quote-icon-right" style="        color: rgba(225, 214, 95);"></i>
+                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
                                 <img src="assets/img/testimonials/Tom-Fisburne.jpeg" class="testimonial-img" />
                                 <h3 class="text-secondary">Tom Fisburne</h3>
@@ -496,12 +495,11 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <p style="        min-height: 250px;
-        background: rgba(95,100,148);
-        color: rgba(225, 214, 95);" class="pb-5">
-                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="        color: rgba(225, 214, 95);"></i>
+                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);"
+                                    class="pb-5">
+                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
                                     İyi bir pazarlama şirketi akıllı gösterir. Daha iyisi muşteriyi akıllı hissettirir.
-                  <i class="bx bxs-quote-alt-right quote-icon-right" style="        color: rgba(225, 214, 95);"></i>
+                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
                                 <img src="assets/img/testimonials/Joe-Chernov.jpg" class="testimonial-img" alt="">
                                 <h3 class="text-secondary">Joe Chernov</h3>
@@ -512,12 +510,10 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <p style="        min-height: 250px;
-        background: rgba(95,100,148);
-        color: rgba(225, 214, 95);">
-                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="        color: rgba(225, 214, 95);"></i>
+                                <p style="min-height: 250px; background: rgba(95,100,148); color: rgba(225, 214, 95);">
+                                    <i class=" bx bxs-quote-alt-left quote-icon-left" style="color: rgba(225, 214, 95);"></i>
                                     Pazarlama artık bir pazarlama şekli ortaya cıkartma değil ürünü tanıtırken ürüne kattığın hikayedir.
-                  <i class="bx bxs-quote-alt-right quote-icon-right" style="        color: rgba(225, 214, 95);"></i>
+                  <i class="bx bxs-quote-alt-right quote-icon-right" style="color: rgba(225, 214, 95);"></i>
                                 </p>
                                 <img src="assets/img/testimonials/Seth-Godiin.jpg" class="testimonial-img" alt="">
                                 <h3 class="text-secondary">Seth Godin</h3>
@@ -608,12 +604,10 @@
 
                 <div class="section-title">
                     <h2>İletişim</h2>
-                    <p class="text-white">
-                        Buralar değişicek
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum
-            quidem. Sit sint
-            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-            in iste officiis commodi quidem hic quas.
+                    <p>
+                        Ertelemenin size getireceği hiçbir fayda yok.!
+                        <br />
+                        Hemen bizimle iletişime geçin ve işinizi dijitalde büyütme yolunda ilk adımı birlikte atalim!<img src="assets/img/Logo/rocket.png" width="25" />&nbsp&nbsp<img src="assets/img/Logo/bag.png" width="25" />
                     </p>
                 </div>
 
@@ -705,7 +699,7 @@
                             </a></li>
                         </ul>
                     </div>
-                    <div class="col-sm-3 footer-links container" style="        margin-top: 38px">
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="../index.aspx#services">Servislerimiz</a>
                             </li>
@@ -713,7 +707,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="col-sm-3 footer-links container" style="        margin-top: 38px">
+                    <div class="col-sm-3 footer-links container" style="margin-top: 38px">
                         <ul>
                             <li><i class="bx bx-chevron-right"></i><a href="#">Kullanım Şartları
                             </a></li>
@@ -739,7 +733,7 @@
                 <!-- You can delete the links only if you purchased the pro version. -->
                 <!-- Licensing information: https://bootstrapmade.com/license/ -->
                 <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/ -->
-                Software Specialist by <a href="https://hhbadak.dev/" style="        color: #B0D12A;">H2O Software</a>
+                Software Specialist by <a href="https://hhbadak.dev/" style="color: #B0D12A;">H2O Software</a>
             </div>
         </div>
     </footer>
@@ -748,7 +742,7 @@
     <script defer class="back-to-top-whatsapp d-flex align-items-center justify-content-center"
         src="https://widget.tochat.be/bundle.js?key=fa583eb7-7470-4852-8fae-78e5f3354f8d"></script>
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"
-        style="        font-size: 30pt;"></i></a>
+        style="font-size: 30pt;"></i></a>
 
     <script>
         let slides = document.querySelectorAll('.slide-container');

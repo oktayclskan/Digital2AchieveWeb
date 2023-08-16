@@ -65,7 +65,10 @@
                     <div class="slide">
                         <div class="content">
                             <img src="assets/img/worldwalll.jpg" class="opacity-50 w-100" />
-                            <h1 class="position-absolute text-white">Elevate Your Brand, Ignite Your Success:
+                            <h1 class="position-absolute text-white">Elevate Your Brand, Ignite Your
+                                <br />
+                                <br />
+                                Success:
                                 <br />
                                 <span class="float-end" style="margin-top: 20%;">Your Journey Starts Here...</span>
                             </h1>
@@ -78,7 +81,9 @@
                     <div class="slide">
                         <div class="content">
                             <img src="assets/img/worldwall3.jpg" class="opacity-25 w-100 h-100" />
-                            <h1 class="position-absolute text-white">We Are Crafting Connections, Between Brand And Buyer</h1>
+                            <h1 class="position-absolute text-white">We Are Crafting Connections, Between<br />
+                                <br />
+                                Brand And Buyer</h1>
                         </div>
                         <video src="assets/Video/slidev3 (online-video-cutter.com).mp4" muted autoplay loop></video>
                     </div>
@@ -87,7 +92,9 @@
                     <div class="slide">
                         <div class="content">
                             <img src="assets/img/walbacki.jpg" class="opacity-25 w-100 h-100" />
-                            <h1 class="position-absolute text-white">Helping to navigate for better possibilities</h1>
+                            <h1 class="position-absolute text-white">Helping to navigate for better<br />
+                                <br />
+                                possibilities</h1>
                         </div>
                         <video src="assets/Video/plexus_-_27669 (1080p).mp4" muted autoplay loop></video>
                     </div>
@@ -111,7 +118,9 @@
       <a href="#about" class="btn-get-started scrollto"><i class="bx bx-chevrons-down"></i></a>
     </div>
   </section>End Hero -->
-
+    <br />
+    <br />
+    <br />
     <main id="main">
         <!-- ======= Cta Section ======= -->
         <section id="cta" class="cta">
@@ -133,7 +142,7 @@
             <div class="row" style="margin-top: 10%; margin-left: 4%">
                 <div class="col-lg-8 col-md-4">
                     <br />
-                  <b>Digital marketing is a method used by businesses to promote their products or services on digital platforms, interact with their target audience using marketing strategies and ultimately increase sales.</b>
+                    <b>Digital marketing is a method used by businesses to promote their products or services on digital platforms, interact with their target audience using marketing strategies and ultimately increase sales.</b>
                 </div>
                 <div class="col-lg-4 col-md-2">
                     <img src="assets/img/AboutUs/broadAudience.png" class="w-75" />
@@ -146,7 +155,7 @@
                 </div>
                 <div class="col-lg-8 col-md-4">
                     <br />
-                    Our London-based company, Digital2Achieve Marketing and Consultancy provides multilingual support with unlimited advertising power across languages, geographies, and cultures. Our team specializes in <b> English, German, Arabic, Spanish, and Russian,</b> enabling effective communication in international markets. 
+                    Our London-based company, Digital2Achieve Marketing and Consultancy provides multilingual support with unlimited advertising power across languages, geographies, and cultures. Our team specializes in <b>English, German, Arabic, Spanish, and Russian,</b> enabling effective communication in international markets. 
                 </div>
                 <hr style="margin-top: 2%; color: white;" />
                 <br />
@@ -323,7 +332,7 @@
             <div class="container">
 
                 <div class="section-title" data-aos="fade-in" data-aos-delay="100">
-                    <h2>BAŞARIYA GÖTÜREN SÖYLEMLER</h2>
+                    <h2>DISCLAIMER OF SUCCESS</h2>
                 </div>
 
                 <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -484,6 +493,11 @@
 
                 <div class="section-title">
                     <h2>Contact</h2>
+                    <p>
+                        Procrastination brings you NO benefits!
+                        <br />
+                        Contact us NOW and take the first step helping your business grow digitally!<img src="assets/img/Logo/rocket.png" width="25" />&nbsp&nbsp<img src="assets/img/Logo/bag.png" width="25" />
+                    </p>
                 </div>
 
                 <div class="row">
