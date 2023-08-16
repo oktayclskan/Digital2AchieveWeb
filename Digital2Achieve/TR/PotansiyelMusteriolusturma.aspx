@@ -72,7 +72,7 @@
                         </p>
                     </div>
                     <div class="col-md-3">
-                        <img src="../assets/img/gif/lgamd2a.gif" style="opacity: 0.7;" class="img-fluid w-50" />
+                        <img src="../assets/img/gif/lgamd2a.gif" class="img-fluid w-50" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
@@ -101,7 +101,7 @@
                             </p>
                         </div>
                         <div class="col-md-3">
-                            <img src="../assets/img/gif/LGAM.gif" style="opacity: 0.7;" class="img-fluid" />
+                            <img src="../assets/img/gif/LGAM.gif" class="img-fluid" />
                         </div>
                     </div>
                     </div>

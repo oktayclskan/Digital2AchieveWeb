@@ -71,7 +71,7 @@
             </p>
           </div>
           <div class="col-md-3 mt-1">
-            <img src="../assets/img/gif/smm.gif" style="opacity: 0.7;" class="img-fluid"/>
+            <img src="../assets/img/gif/smm.gif" class="img-fluid"/>
           </div>
           <hr class="bg-secondary mt-4" style="border:2px solid silver;"height="100%" alt="">
           <div class="row mt-3">
@@ -80,16 +80,13 @@
                 Sosyal Medya yönetiminin kısaca önemi nedir?</h4>
                 <ul>
                   <li class="mt-3">Şirketlerin sosyal medya platformlarını kullanarak hedef kitleleriyle doğrudan
-                    iletişim kurmalarını sağlar.
-                    audiences using social media platforms.</li>
+                    iletişim kurmalarını sağlar.</li>
                   <li class="mt-3">Bu platformlar aracılığıyla, markalar içerik paylaşabilir.
                   </li>
                   <li class="mt-3">
                     Sosyal medya kampanyaları düzenleyerek ürün veya hizmetleri tanıtabilir.</li>
                   <li class="mt-3">
                     Müşteri geri bildirimleri alabilir</li>
-                  <li class="mt-3">
-                    Sosyal medya yönetimiyle sizi teknik konularla yormuyoruz.</li>
                 </ul>
             </div>
           </div>
@@ -107,7 +104,7 @@
                 </p>
             </div>
             <div class="col-md-3 mt-4">
-              <img src="../assets/img/gif/smmd2a.gif" style="opacity: 0.7;" class="img-fluid mb-2" />
+              <img src="../assets/img/gif/smmd2a.gif" class="img-fluid mb-2" />
             </div>
           </div>
           </div>

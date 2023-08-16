@@ -117,7 +117,7 @@
                             </p>
                         </div>
                         <div class="col-md-3">
-                            <img src="../assets/img/gif/LGAM.gif" style="opacity: .7;" class="img-fluid" alt="" />
+                            <img src="../assets/img/gif/LGAM.gif" class="img-fluid" alt="" />
                         </div>
                     </div>
                 </div>

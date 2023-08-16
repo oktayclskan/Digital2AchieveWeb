@@ -88,13 +88,13 @@
                         </p>
                     </div>
                     <div class="col-md-3 mt-4">
-                        <img src="../assets/img/gif/wdad.gif" style="opacity: .7;" class="img-fluid w-100" />
+                        <img src="../assets/img/gif/wdad.gif" class="img-fluid w-100" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
                         <div class="col-md-12">
                             <h4 style="text-align: center;">What is its importance in short?</h4>
-                            <p class="align-items-center mt-2" style="opacity: .7;">
+                            <p class="align-items-center mt-2">
                                 According to a study, 84% of
                   consumers already placed more trust in businesses that had a website, even if they had a physical
                   establishment.
@@ -122,7 +122,7 @@
                             </p>
                         </div>
                         <div class="col-md-3" style="margin-top: 6%">
-                            <img src="../assets/img/gif/wdadd2a.gif" style="opacity: .7;" class="img-fluid w-100" />
+                            <img src="../assets/img/gif/wdadd2a.gif" class="img-fluid w-100" />
                         </div>
                     </div>
                 </div>

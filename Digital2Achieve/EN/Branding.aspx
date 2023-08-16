@@ -89,7 +89,7 @@
                         </p>
                     </div>
                     <div class="col-md-3 mt-4">
-                        <img src="../assets/img/gif/b.gif" style="opacity: .7;" class="img-fluid w-25" alt="" />
+                        <img src="../assets/img/gif/b.gif" class="img-fluid w-25" alt="" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;"/>
                     <div class="row mt-3">
@@ -120,7 +120,7 @@
                             </p>
                         </div>
                         <div class="col-md-3 mt-4">
-                            <img src="../assets/img/gif/bd2a.gif" style="opacity: .7;" class="img-fluid" alt="" />
+                            <img src="../assets/img/gif/bd2a.gif" class="img-fluid" alt="" />
                         </div>
                     </div>
                 </div>

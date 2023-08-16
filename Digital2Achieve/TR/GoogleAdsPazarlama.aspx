@@ -89,14 +89,14 @@
                         </p>
                     </div>
                     <div class="col-md-3 mt-1">
-                        <img src="../assets/img/gif/ga.gif" style="opacity: 0.7; margin-top: 12%;" class="img-fluid" />
+                        <img src="../assets/img/gif/ga.gif" style="margin-top: 12%;" class="img-fluid" />
                     </div>
                     <hr class="bg-secondary mt-4" style="border: 2px solid silver;" />
                     <div class="row mt-3">
                         <div class="col-md-12">
                             <h3 style="text-align: center;">Google Ads’in kısaca önemi nedir?</h3>
                             <br />
-                            <p class="align-items-center mt-2" style="opacity: .7;">
+                            <p class="align-items-center mt-2">
                                 Google Ads, reklam verenlere
                   kapsamlı hedefleme seçenekleri sunar.
                             </p>
@@ -130,7 +130,7 @@
                 </p>
                         </div>
                         <div class="col-md-3 mt-3">
-                            <img src="../assets/img/gif/gad2a.gif" style="opacity: 0.7;" class="img-fluid" />
+                            <img src="../assets/img/gif/gad2a.gif" class="img-fluid" />
                         </div>
                         </div>
                     </div>

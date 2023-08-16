@@ -65,7 +65,7 @@
             </p>
           </div>
           <div class="col-md-3 mt-4">
-            <img src="../assets/img/gif/wdad.gif" style="opacity: 0.7;" class="img-fluid" />
+            <img src="../assets/img/gif/wdad.gif" class="img-fluid" />
           </div>
           <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">
@@ -98,7 +98,7 @@
                   satışa giden yolda önemli bir rol oynar.</p>
             </div>
             <div class="col-md-3" style="margin-top:6%">
-              <img src="../assets/img/gif/wdadd2a.gif" style="opacity: 0.7;" class="img-fluid"/>
+              <img src="../assets/img/gif/wdadd2a.gif" class="img-fluid"/>
             </div>
             </div>
           </div>
