@@ -138,16 +138,19 @@
         </section>
 
         <div class="row mt-2">
-            <div class="col-lg-2 col-md-2"></div>
-            <div class="col-lg-4 col-md-2">
-                <video src="../assets/Video/45.mp4" style="float: right;" height="200" muted autoplay loop></video>
+            <div class="col-md-3">
+
             </div>
-            <div class="col-lg-4 col-md-2">
+            <div class="col-sm-3 mt-2 text-center">
+                <video src="../assets/Video/45.mp4" height="200" muted autoplay loop></video>
+            </div>
+            <div class="col-sm-3 mt-2 text-center">
                 <video src="../assets/Video/social.mp4" height="200" muted autoplay loop></video>
             </div>
-            <div class="col-lg-2 col-md-2"></div>
-        </div>
+            <div class="col-md-3">
 
+            </div>
+        </div>
         <div class="card p-2 mb-2 rounded-0" style="text-align: center; background: rgba(95, 100, 148);" data-aos="flip-right">
             <p>
                 <h1 style="color: #EEFF41; font-family: 'Merriweather', serif;"><b>Are you looking to increase your brand's visibility and reach a larger audience?</b></h1>
@@ -561,7 +564,7 @@
           </div> -->
 
                     <div class="col-lg-6 container">
-                       <form id="form1" runat="server" method="post">
+                        <form id="form1" runat="server" method="post">
                             <div class="row">
                                 <div class="col-md-6 form-group">
                                     <asp:TextBox runat="server" ID="name" CssClass="form-control" placeholder="Name" required="true"></asp:TextBox>
