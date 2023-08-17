@@ -138,10 +138,10 @@
         <div class="row mt-2">
             <div class="col-lg-2 col-md-2"></div>
             <div class="col-lg-4 col-md-2">
-                <video src="../assets/Video/45.mp4" style="float: right;" height="200" muted autoplay loop></video>
+                <video src="../assets/Video/tr-index1.mp4" style="float: right;" height="200" muted autoplay loop></video>
             </div>
             <div class="col-lg-4 col-md-2">
-                <video src="../assets/Video/social.mp4" height="200" muted autoplay loop></video>
+                <video src="../assets/Video/tr-index2.mp4" height="200" muted autoplay loop></video>
             </div>
             <div class="col-lg-2 col-md-2"></div>
         </div>
@@ -672,28 +672,28 @@
           </div> -->
 
                     <div class="col-lg-6 container">
-                        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                        <form id="form1" runat="server" method="post">
                             <div class="row">
                                 <div class="col-md-6 form-group">
-                                    <input type="text" name="name" class="form-control" id="name" placeholder="Ad" required>
+                                    <asp:TextBox runat="server" ID="name" CssClass="form-control" placeholder="Ad" required="true"></asp:TextBox>
                                 </div>
                                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="E-Posta" required>
+                                    <asp:TextBox runat="server" ID="email" CssClass="form-control" placeholder="E-Posta" required="true"></asp:TextBox>
                                 </div>
                             </div>
                             <div class="form-group mt-3">
-                                <input type="number" class="form-control" name="subject" id="subject" placeholder="Tel" required>
+                                <asp:TextBox runat="server" ID="subject" CssClass="form-control" placeholder="Tel" required="true"></asp:TextBox>
                             </div>
                             <div class="form-group mt-3">
-                                <textarea class="form-control" name="message" rows="5" placeholder="Messaj" required></textarea>
+                                <asp:TextBox runat="server" ID="message" CssClass="form-control" TextMode="MultiLine" Rows="5" placeholder="Mesaj" required="true"></asp:TextBox>
                             </div>
                             <div class="my-3">
                                 <div class="loading">Yükleniyor</div>
-                                <div class="error-message"></div>
-                                <div class="sent-message">Mesajınız gönderildi. Teşekkür ederim!</div>
+                                <div class="error-message" runat="server" id="errorDiv" visible="false"></div>
+                                <div class="sent-message" runat="server" id="sentMessage" visible="false">Mesajınız gönderildi. Teşekkür ederiz!</div>
                             </div>
                             <div class="text-center">
-                                <button type="submit">Mesaj Gönder</button>
+                                <asp:Button runat="server" ID="btnSubmit" Text="Mesaj Gönder" OnClick="btnSubmit_Click1" />
                             </div>
                         </form>
                     </div>

@@ -180,6 +180,9 @@
     <Content Include="assets\Video\slidev1.mp4" />
     <Content Include="assets\Video\slidev3 %28online-video-cutter.com%29.mp4" />
     <Content Include="assets\Video\social.mp4" />
+    <Content Include="assets\Video\tr-index1.mp4" />
+    <Content Include="assets\Video\tr-index2.mp4" />
+    <Content Include="ContactForm.aspx" />
     <Content Include="EN\Branding.aspx" />
     <Content Include="EN\DataAnalysis.aspx" />
     <Content Include="EN\GoogleAdvertisements.aspx" />
@@ -200,6 +203,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ContactForm.aspx.cs">
+      <DependentUpon>ContactForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactForm.aspx.designer.cs">
+      <DependentUpon>ContactForm.aspx</DependentUpon>
+    </Compile>
     <Compile Include="EN\Branding.aspx.cs">
       <DependentUpon>Branding.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

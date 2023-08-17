@@ -561,29 +561,28 @@
           </div> -->
 
                     <div class="col-lg-6 container">
-                        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                       <form id="form1" runat="server" method="post">
                             <div class="row">
                                 <div class="col-md-6 form-group">
-                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                                    <asp:TextBox runat="server" ID="name" CssClass="form-control" placeholder="Name" required="true"></asp:TextBox>
                                 </div>
                                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                                    <asp:TextBox runat="server" ID="email" CssClass="form-control" placeholder="E-Mail" required="true"></asp:TextBox>
                                 </div>
                             </div>
                             <div class="form-group mt-3">
-                                <input type="number" class="form-control" name="subject" id="subject" placeholder="Phone Number"
-                                    required>
+                                <asp:TextBox runat="server" ID="subject" CssClass="form-control" placeholder="Phone Number" required="true"></asp:TextBox>
                             </div>
                             <div class="form-group mt-3">
-                                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                                <asp:TextBox runat="server" ID="message" CssClass="form-control" TextMode="MultiLine" Rows="5" placeholder="Message" required="true"></asp:TextBox>
                             </div>
                             <div class="my-3">
-                                <div class="loading">Loading</div>
-                                <div class="error-message"></div>
-                                <div class="sent-message">Your message has been sent. Thank you!</div>
+                                <div class="loading">Yükleniyor</div>
+                                <div class="error-message" runat="server" id="errorDiv" visible="false"></div>
+                                <div class="sent-message" runat="server" id="sentMessage" visible="false">Message sent, thank you!</div>
                             </div>
                             <div class="text-center">
-                                <button type="submit">Send Message</button>
+                                <asp:Button runat="server" ID="btnSubmit" Text="Send Message" OnClick="btnSubmit_Click" />
                             </div>
                         </form>
                     </div>
