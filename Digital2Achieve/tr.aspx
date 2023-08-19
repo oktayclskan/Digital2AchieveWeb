@@ -135,15 +135,19 @@
             </div>
         </section>
 
-        <div class="row mt-2">
-            <div class="col-lg-2 col-md-2"></div>
-            <div class="col-lg-4 col-md-2">
-                <video src="../assets/Video/tr-index1.mp4" style="float: right;" height="200" muted autoplay loop></video>
+       <div class="row mt-2">
+            <div class="col-md-3">
+
             </div>
-            <div class="col-lg-4 col-md-2">
-                <video src="../assets/Video/tr-index2.mp4" height="200" muted autoplay loop></video>
+            <div class="col-sm-3 mt-2 text-center">
+                <video src="../assets/Video/45.mp4" height="200" muted autoplay loop></video>
             </div>
-            <div class="col-lg-2 col-md-2"></div>
+            <div class="col-sm-3 mt-2 text-center">
+                <video src="../assets/Video/social.mp4" height="200" muted autoplay loop></video>
+            </div>
+            <div class="col-md-3">
+
+            </div>
         </div>
 
         <div class="card p-2 mb-2 rounded-0" style="text-align: center; background: rgba(95, 100, 148);" data-aos="flip-right">
