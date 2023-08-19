@@ -33,7 +33,7 @@ namespace Digital2Achieve
                 mail.Subject = subject;
                 mail.Body = message;
 
-                SmtpClient smtp = new SmtpClient("mail.godigital2achieve.com", 995);
+                SmtpClient smtp = new SmtpClient("mail.godigital2achieve.com", 587);
                 smtp.Credentials = new NetworkCredential("sistem@godigital2achieve.com", "Ijg9Kq7y");
                 smtp.EnableSsl = true;
 
