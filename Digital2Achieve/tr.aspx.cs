@@ -16,40 +16,40 @@ namespace Digital2Achieve
 
         }
 
-        protected void btnSubmit_Click1(object sender, EventArgs e)
-        {
-            string receivingEmailAddress = "info@godigital2achieve.com";
-            string gon = "sistem@godigital2achieve.com";
-            string fromName = name.Text;
-            string fromEmail = email.Text;
-            string subject = this.subject.Text;
-            string message = this.message.Text;
+        //protected void btnSubmit_Click1(object sender, EventArgs e)
+        //{
+        //    string receivingEmailAddress = "info@godigital2achieve.com";
+        //    string gon = "sistem@godigital2achieve.com";
+        //    string fromName = name.Text;
+        //    string fromEmail = email.Text;
+        //    string subject = this.subject.Text;
+        //    string message = this.message.Text;
 
-            // E-posta gönderme işlemi
-            using (MailMessage mail = new MailMessage())
-            {
-                mail.From = new MailAddress(gon, receivingEmailAddress);
-                mail.To.Add(receivingEmailAddress);
-                mail.Subject = subject;
-                mail.Body = message;
+        //    // E-posta gönderme işlemi
+        //    using (MailMessage mail = new MailMessage())
+        //    {
+        //        mail.From = new MailAddress(gon, receivingEmailAddress);
+        //        mail.To.Add(receivingEmailAddress);
+        //        mail.Subject = subject;
+        //        mail.Body = message;
 
-                SmtpClient smtp = new SmtpClient("mail.godigital2achieve.com", 587);
-                smtp.Credentials = new NetworkCredential("sistem@godigital2achieve.com", "Ijg9Kq7y");
-                smtp.EnableSsl = true;
+        //        SmtpClient smtp = new SmtpClient("mail.godigital2achieve.com", 587);
+        //        smtp.Credentials = new NetworkCredential("sistem@godigital2achieve.com", "Ijg9Kq7y");
+        //        smtp.EnableSsl = true;
 
-                try
-                {
-                    smtp.Send(mail);
-                    sentMessage.Visible = true;
-                    errorDiv.Visible = false;
-                }
-                catch (Exception ex)
-                {
-                    errorDiv.InnerHtml = "Bir hata oluştu: " + ex.Message;
-                    errorDiv.Visible = true;
-                    sentMessage.Visible = false;
-                }
-            }
-        }
+        //        try
+        //        {
+        //            smtp.Send(mail);
+        //            sentMessage.Visible = true;
+        //            errorDiv.Visible = false;
+        //        }
+        //        catch (Exception ex)
+        //        {
+        //            errorDiv.InnerHtml = "Bir hata oluştu: " + ex.Message;
+        //            errorDiv.Visible = true;
+        //            sentMessage.Visible = false;
+        //        }
+        //    }
+        //}
     }
 }

@@ -585,7 +585,7 @@
                                 <div class="sent-message" runat="server" id="sentMessage" visible="false">Message sent, thank you!</div>
                             </div>
                             <div class="text-center">
-                                <asp:Button runat="server" ID="btnSubmit" Text="Send Message" OnClick="btnSubmit_Click" />
+                                <asp:Button runat="server" ID="btnSubmit" Text="Send Message"/>
                             </div>
                         </form>
                     </div>
