@@ -139,11 +139,11 @@
             <div class="col-md-3">
 
             </div>
-            <div class="col-sm-3 mt-2 text-center">
-                <video src="../assets/Video/45.mp4" height="200" muted autoplay loop></video>
+            <div class="col-md-3 mt-2 text-center">
+                <video src="../assets/Video/45.mp4" class="w-100" muted autoplay loop></video>
             </div>
-            <div class="col-sm-3 mt-2 text-center">
-                <video src="../assets/Video/social.mp4" height="200" muted autoplay loop></video>
+            <div class="col-md-3 mt-2 text-center">
+                <video src="../assets/Video/social.mp4" class="w-100" muted autoplay loop></video>
             </div>
             <div class="col-md-3">
 
@@ -279,31 +279,31 @@
         </section>--%>
         <section>
             <div class="row" style="margin-top: 5%; margin-left: 4%">
-                <div class="col-lg-8 col-md-4">
+                <div class="col-md-8 ">
                     <br />
                     <b>Dijital pazarlama</b>, işletmelerin ürün veya hizmetlerini dijital platformlarda tanıtmak, pazarlama stratejileri kullanarak hedef kitleleriyle etkileşime geçmek ve sonuçta satışları artırmak için kullanılan bir yöntemdir.
                 </div>
-                <div class="col-lg-4 col-md-2">
-                    <img src="assets/img/AboutUs/broadAudience.png" class="w-75" />
+                <div class="col-md-4 ">
+                    <img src="assets/img/AboutUs/broadAudience.png" class="w-100" />
                 </div>
                 <hr style="margin-top: 2%; color: white;" />
                 <br />
                 <br />
-                <div class="col-lg-4 col-md-2">
-                    <img src="assets/img/AboutUs/activeDigital.png" class="w-75" alt="">
+                <div class="col-md-4 mt-5 ">
+                    <img src="assets/img/AboutUs/activeDigital.png" class="w-100" />
                 </div>
-                <div class="col-lg-8 col-md-4">
+                <div class="col-md-8 ">
                     <br />
                     Londra merkezli <b style="color: #EEFF41">Dijitalle Başar (Digital2Achieve)</b> Pazarlama ve Danışmanlık olarak şirketimiz, dil, coğrafya ve kültürler arası sınırsız reklam gücüne sahip çok dilli bir ekip ile size destek sağlamaktadır. <b>İngilizce, Almanca, Arapça, İspanyolca ve Rusça gibi dillerde uzmanlaşmış ekibimiz</b>, uluslararası pazarlarda etkili bir şekilde iletişim kurmanızı sağlar.
                 </div>
                 <hr style="margin-top: 2%; color: white;" />
                 <br />
                 <br />
-                <div class="col-lg-8 col-md-4 mt-4">
+                <div class="col-md-8  mt-4">
                     Çeşitli kültürlere ve coğrafyalara aşina olan ekip üyelerimiz, hedef kitlenizle bağlantı kurmanıza yardımcı olur ve pazarlama çabalarınızı hem lokal hem de global ölçekte sizin hedef kitle tavsiyelerinize göre genişletmenize imkan tanır.
                 </div>
-                <div class="col-lg-4 col-md-2">
-                    <img src="assets/img/AboutUs/wider-reach.gif" class="w-75" />
+                <div class="col-md-4 ">
+                    <img src="assets/img/AboutUs/wider-reach.gif" class="w-100" />
                 </div>
             </div>
             <br />

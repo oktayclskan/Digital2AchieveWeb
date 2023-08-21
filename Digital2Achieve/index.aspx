@@ -141,11 +141,11 @@
             <div class="col-md-3">
 
             </div>
-            <div class="col-sm-3 mt-2 text-center">
-                <video src="../assets/Video/45.mp4" height="200" muted autoplay loop></video>
+            <div class="col-md-3 mt-2 text-center">
+                <video src="../assets/Video/45.mp4" class="w-100" muted autoplay loop></video>
             </div>
-            <div class="col-sm-3 mt-2 text-center">
-                <video src="../assets/Video/social.mp4" height="200" muted autoplay loop></video>
+            <div class="col-md-3 mt-2 text-center">
+                <video src="../assets/Video/social.mp4" class="w-100"" muted autoplay loop></video>
             </div>
             <div class="col-md-3">
 
@@ -185,7 +185,7 @@
                 <div class="col-md-8 mt-3">
                     Our knowledgeable team members understand various cultures and geographies, assisting in connecting with your target audience and expanding marketing efforts according to your recommendations, both locally and globally.
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 mt-3">
                     <img src="assets/img/AboutUs/wider-reach.gif" class="w-100" />
                 </div>
             </div>
