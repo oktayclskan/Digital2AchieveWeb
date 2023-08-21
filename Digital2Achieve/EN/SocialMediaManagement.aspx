@@ -74,7 +74,7 @@
             <h1 style="text-align: center; font-size:30pt;">SOCIAL MEDIA MANAGEMENT</h1>
               <hr />
         <div class="row">
-          <div class="col-md-12 mt-4">
+          <div class="col-md-9 mt-4">
             <p class="align-items-center mt-2">Social media management (Facebook,
               Instagram, Twitter, LinkedIn, etc.) is the implementation of marketing strategies to increase brand
               awareness, promote products or services, interact with the target audience and attract potential customers

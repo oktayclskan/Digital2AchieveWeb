@@ -59,7 +59,7 @@
             <h4 style="text-align: center; font-size: 30pt;">SOSYAL MEDYA YÖNETİMİ</h4>
               <hr />
         <div class="row">
-          <div class="col-md-12 mt-4">
+          <div class="col-md-9 mt-4">
             <p class="align-items-center mt-2 ">Sosyal medya yönetimi (Facebook,
               Instagram, Twitter, LinkedIn vb.), sosyal medya platformlarını kullanarak marka bilinirliğini artırma,
               ürün veya hizmetleri tanıtma, hedef kitleyle etkileşim kurma ve potansiyel müşterileri çekme amacıyla
