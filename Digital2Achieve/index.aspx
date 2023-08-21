@@ -162,31 +162,31 @@
         <!-- ======= About Section ======= -->
         <section>
             <div class="row" style="margin-top: 5%; margin-left: 4%">
-                <div class="col-lg-8 col-md-4">
+                <div class="col-md-8 ">
                     <br />
                     Digital marketing is a method used by businesses to promote their products or services on digital platforms, interact with their target audience using marketing strategies and ultimately increase sales.
                 </div>
-                <div class="col-lg-4 col-md-2">
-                    <img src="assets/img/AboutUs/broadAudience.png" class="w-75" />
+                <div class="col-md-4">
+                    <img src="assets/img/AboutUs/broadAudience.png" class="w-100" />
                 </div>
                 <hr style="margin-top: 2%; color: white;" />
                 <br />
                 <br />
-                <div class="col-lg-4 col-md-2">
-                    <img src="assets/img/AboutUs/activeDigital.png" class="w-75" alt="">
+                <div class="col-md-4 mt-4 ">
+                    <img src="assets/img/AboutUs/activeDigital.png" class="w-100" />
                 </div>
-                <div class="col-lg-8 col-md-4">
+                <div class="col-md-8">
                     <br />
                     Our London-based company, Digital2Achieve Marketing and Consultancy provides multilingual support with unlimited advertising power across languages, geographies, and cultures. Our team specializes in <b>English, German, Arabic, Spanish, and Russian,</b> enabling effective communication in international markets. 
                 </div>
                 <hr style="margin-top: 2%; color: white;" />
                 <br />
                 <br />
-                <div class="col-lg-8 col-md-4 mt-4">
+                <div class="col-md-8 mt-3">
                     Our knowledgeable team members understand various cultures and geographies, assisting in connecting with your target audience and expanding marketing efforts according to your recommendations, both locally and globally.
                 </div>
-                <div class="col-lg-4 col-md-2">
-                    <img src="assets/img/AboutUs/wider-reach.gif" class="w-75" />
+                <div class="col-md-4">
+                    <img src="assets/img/AboutUs/wider-reach.gif" class="w-100" />
                 </div>
             </div>
             <br />

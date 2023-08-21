@@ -60,7 +60,7 @@
               <hr />
         <div class="row">
           <div class="col-md-9 mt-4">
-            <p class="align-items-center mt-2"">Sosyal medya yönetimi (Facebook,
+            <p class="align-items-center mt-2 ">Sosyal medya yönetimi (Facebook,
               Instagram, Twitter, LinkedIn vb.), sosyal medya platformlarını kullanarak marka bilinirliğini artırma,
               ürün veya hizmetleri tanıtma, hedef kitleyle etkileşim kurma ve potansiyel müşterileri çekme amacıyla
               pazarlama stratejilerinin uygulanmasıdır.
@@ -70,12 +70,12 @@
               <br />
             </p>
           </div>
-          <div class="col-md-3 mt-1">
-            <video src="../assets/Video/social.mp4" height="200" muted autoplay loop></video>
+          <div class="col-lg-3 mt-1">
+            <video src="../assets/Video/social.mp4" class="w-100 mt-4" muted autoplay loop></video>
           </div>
           <hr class="bg-secondary mt-4" style="border:2px solid silver;"height="100%" alt="">
           <div class="row mt-3">
-            <div class="col-md-12">
+            <div class="col-lg-12">
               <h4 style="text-align: center;">
                 Sosyal Medya yönetiminin kısaca önemi nedir?</h4>
                 <ul>
@@ -92,7 +92,7 @@
           </div>
           <hr class="bg-secondary" style="border:2px solid silver;"/>
           <div class="row mt-4">
-            <div class="col-md-9">
+            <div class="col-lg-9">
               <h4 style="text-align: center;">Biz sizin için ne yapıyoruz?</h4>
                 <p class="align-items-center"> Dijitalle Başar <span
                     style="font-weight: 900;color: brown;">
@@ -103,8 +103,8 @@
                   yönetiyoruz.
                 </p>
             </div>
-            <div class="col-md-3 mt-5">
-              <video src="../assets/Video/45.mp4" class="w-100" muted autoplay loop></video>
+            <div class="col-lg-3 mt-5">
+              <video src="../assets/Video/45.mp4" class="w-100 mt-3" muted autoplay loop></video>
             </div>
           </div>
           </div>

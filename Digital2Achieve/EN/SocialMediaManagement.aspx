@@ -82,12 +82,12 @@
               Social media marketing is an exceptionally effective and convenient method of promoting products or
               services when compared to conventional marketing methods.</p>
           </div>
-          <div class="col-md-3 mt-4">
-             <video src="../assets/Video/social.mp4" height="200px" muted autoplay loop></video>
+          <div class="col-lg-3 mt-4">
+             <video src="../assets/Video/social.mp4" class="w-100 " muted autoplay loop></video>
           </div>
           <hr class="bg-secondary mt-4" style="border:2px solid silver;"/>
           <div class="row mt-3">
-            <div class="col-md-12">
+            <div class="col-lg-12">
               <h3 style="text-align: center;">What is the importance of social media management?</h3>
                 <ul>
                   <li class="mt-3">It enables companies to communicate directly with their target audience using social
@@ -100,14 +100,14 @@
           </div>
           <hr class="bg-secondary" style="border:2px solid silver;" />
           <div class="row mt-4">
-            <div class="col-md-9">
+            <div class="col-lg-9">
               <h3 style="text-align: center;">What do we do for you?</h3>
                 <p class="align-items-center"> As <span style="font-weight: 900;color: brown;">
                     (Digital2Achieve)</span> marketing team, we analyse your target audience and create content based on
                   the information and expectations you provide. We manage your brand's social media accounts, produce
                   content and manage your social media campaigns.</p>
             </div>
-            <div class="col-md-3 mt-4">
+            <div class="col-lg-3 mt-4">
               <video src="../assets/Video/45.mp4" class="w-100" muted autoplay loop></video>
             </div>
           </div>
